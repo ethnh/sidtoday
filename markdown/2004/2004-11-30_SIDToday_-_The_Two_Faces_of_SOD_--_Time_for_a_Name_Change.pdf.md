@@ -1,0 +1,12 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) The Two Faces of SOD -- Time for a Name Change!
+FROM:
+Chief, Reporting Board (S12A)
+Run Date: 11/30/2004
+(U//FOUO) SIGINT-On-Demand has a personality disorder! It doesn't know whether it is a tool or a product or both. Having the same name for the tool that we use to produce the SIGINT-On Demand (SOD) item and the resulting SOD product is confusing to customers, the users of the information, and to us, the users and developers of the tool. To end the confusion, we're changing the analyst's piece to the Content Preparation Environment (CPE).
+(U//FOUO) Doing so will make it easier for us to differentiate between the CPE's broad range of functions and SOD the product. The CPE has also been assigned the covername SPELLBINDER. This name will be used primarily for accreditation purposes and internal communications.
+(U//FOUO) Is it a name-only change? No, there really is a difference. As the CPE evolves, analysts will be able to prepare ANY information in this space -- from traditional text to multimedia, ORCON, GAMMA, technical information, and even products from the IAD and the newly-established NTAC. The first steps in this evolution are being prototyped. We're testing the use of MS Word within the CPE and recently incorporated the ability to attach multimedia information. In the longer term, we envision an analyst will create responses to Research Information Needs (RIN) within the CPE and, with only a click or two, deliver these responses to customers as RIN responses AND formally disseminate the information as a regular product.
+(U//FOUO) So, what does that mean for SOD the product? For now, a SOD item is the only product/format choice available in the CPE. However, now that SOD items are sent via subscription AND via Criticom to a canned distribution, a number of production elements use SOD much like an EGRAM. In the future, SOD will simply be one of many CPE product choices when you prepare information for dissemination. The goal is to transparently streamline the ways analysts prepare and disseminate information.
+(U//FOUO) We'll be providing regular updates on the Content Preparation Environment. Our plan is to rollout new capabilities every 6-8 weeks; the next roll out is scheduled for January 2005.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

@@ -1,0 +1,14 @@
+![img-0.jpeg](img-0.jpeg)
+
+# (U) SIGINT Technical Leader Named 
+
+FROM: MG Richard J. Quirk, USA
+Signals Intelligence Director
+Run Date: 10/06/2003
+(U) You've heard me talk about the importance of our capabilities-based SIGINT system. Organized by function across the SID directorate, it has proven to be exceedingly agile and well suited to our new, more global missions. But, like any organizational structure it comes at a cost. Our ability to focus on our key threats, current and future, cuts across all of our organizational boundaries.
+(U) This challenges each of us to know and understand every last one of our missions and priorities with sufficient detail such that we can make the best decisions about how we should apply our capabilities. Even on our best days, this is exceptionally difficult to do. To help sort through the competing needs, we've added Issue Manager Teams (IMT). Each IMT owns a mission area and has the responsibility of helping us all understand SIGINT's role in that area. An IMT is aware of where our strengths are and what we need to focus on in a mission area. The outcome of this effort has been very rewarding.
+(U) It is the tremendous success of our IMT concept that has led me to establish the position of SIGINT Technical Leader (TL). The SIGINT TL will identify and champion the overarching mission outcomes that will drive our continuing transformation of SIGINT. To accomplish this the SIGINT TL will work with the other members of the SID Leadership Team including the DDs and staff, the Chief Technology Officer (CTO), senior technical leaders, and others, both inside and outside SID and NSA, to help translate mission opportunities and outcomes into new ways to make and use SIGINT. I am pleased to announce that Dave Hurry has joined my staff as the first SIGINT Technical Leader .
+(U) Functionally, the SIGINT TL and the SID CTO will form a small team working for me to find and improve the key drivers that make SIGINT better. Notionally, the SIGINT TL will look externally and internally for new opportunities and challenges for SIGINT, and the CTO will find the technologies and new technical approaches to solve them. While this type of innovation has already been going on across SID and our partner organizations, the SIGINT TL and CTO will be able to bring an added focus and focal point to these efforts.
+(U) Needless to say, this technical team will be looking to you for ideas and areas to emphasize. SIGINT has a virtually unlimited number of opportunities and challenges before it. Knowing which ones to pursue and when to pursue them will be key in making rapid progress towards our goals. The SIGINT Technical Leader will be a key player in the process to make this happen. Please join me in welcoming and supporting Dave in this new position.
+
+## "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

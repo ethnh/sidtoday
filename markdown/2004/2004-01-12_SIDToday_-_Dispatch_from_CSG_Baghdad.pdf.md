@@ -1,0 +1,32 @@
+![img-0.jpeg](img-0.jpeg)
+
+## (S//REL) Dispatch from CSG Baghdad
+
+FROM: an IA Intern Currently in Baghdad
+Run Date: 01/12/2004
+(U//FOUO) Note from SIGINT Communications: We close out our "IA Interns Abroad" series with this report from an analyst on the ground in Baghdad:
+(S//REL) When Operation Iraqi freedom began last March, I was midway through my second tour as an Intelligence Analysis intern. Having recently completed an Iraqi Weapons of Mass Destruction tour, and working on a dynamic SIGINT assessment project for CENTCOM in my new office, I found myself unsatisfied with the prospect of watching this war on CNN. On March 20, the day after the first bombs fell in Iraq, I volunteered for a NIST deployment.
+(S//REL) With other mission obligations to fulfill, I wasn't able to deploy until October 2003. By that point, I hoped there would still be some value in going. "The war's over," people would say. "Why would they send you to Iraq now ?" Within a few days of my deployment, it was clear that perhaps the hardest part of this war was still being fought by tens of thousands of military personnel. I would be serving as one of only six analysts tasked with providing SIGINT support to capture/kill operations and force-protection actions executed by four large military divisions in the Iraqi theater.
+(S//REL) CSG Baghdad works hand-in-hand with the intelligence components of Combined Joint Task Force 7 (CJTF-7), providing everything from regular reports on SIGINT activity in suspicious areas to real-time tracking of targeted handsets during operations. Our team of fewer than fifteen people serves as "NSA forward," working with CENTCOM and the CJTF-7 Intelligence Fusion Center to support and protect almost 100,000 troops, controlling twothirds of Iraq.
+(S//REL) Unlike the sometimes black and white nature of active combat, the current situation in Iraq is frequently gray. While local Iraqi contractors cheerfully pour concrete in our parking lot, we don't really know if any of them are working with the terrorists lobbing mortars at our outer walls. A routine afternoon of guard duty for a friend of mine suddenly turned when he was narrowly missed by a sniper - while on our base. A colleague and I had lunch at the Al Rashid hotel downtown a few short days before several rockets hit the building. After my first of many nights walking home from work in my flack vest and Kevlar helmet, I thought, this isn't what I had in mind when Iraq was so quiet this summer.
+(S//REL) But if things have to get worse before they get better, they're certainly looking up now. I am now three months into a four-month tour. During these three months, my team has provided direct, actionable SIGINT support to dozens of operations that have resulted in the capture or elimination of countless terrorists. One month ago, we were among the first to know that Saddam Hussein had been captured.
+
+## SERIES: (U//FOUO) IA Interns Abroad
+
+1. Coming Soon: IA Interns Abroad
+2. 3 1/2 Months in Qatar: Supporting CENTCOM
+3. 3 1/2 Months in Qatar: Outside of Work
+4. Deployed to Afghanistan
+5. Camp Virginia to Camp Victory: In Kuwait
+6. Camp Virginia to Camp Victory: Into Baghdad
+7. NISTing in Kabul and Baghdad - Part One
+8. NISTing in Kabul and Baghdad - Part Two
+9. Working at Prince Sultan Air Base, SA
+10. Deployment Sketches - Part 1
+11. Deployment Sketches - Part 2
+12. Dispatch from CSG Baghdad
+(S//REL) As a civilian analyst, I never thought I'd have the opportunity to serve in a military operation. After my time in Iraq, I have a new perspective on the men and women who protect our nation's security on the front lines, while we support them from the rear. Having lived with the troops for three months, in the same dusty tents, eating the same unremarkable chow, I have begun to consider them family. Someday I'll show my grandchildren pictures of us opening our Christmas care packages, members of four services and several civilian agencies all wearing the same uniform. I'll tell the stories of being on watch when Ambassador Bremer announced, "We got him." Of counting down to 2004 in Saddam's palace, still carrying our rifles and pistols while defiantly enjoying our New Year's Eve party. Walking to my office through the inescapable mud and home through "celebratory" fire.
+(S//REL) Mostly, I'll tell them how I traveled thousands of miles to see for myself that the work we do really does make a difference to the boots on the ground. Having worked now through three agency elements in Phases I-IV of OIF - at the Fort and in the field - I am firmly convinced that neither side can work effectively without the other. I now see my work as both a privilege and an awesome responsibility. When I return home, I surely won't miss the grueling shifts, the dirt, the food, or the occasional fear. But I'll leave knowing that this country is well on its way to recovery. And we have helped.
+(U//FOUO) SIGINT Communications would like to thank all of the interns who contributed articles to this series. Many readers have commented on the value of these first-hand insights from those supporting military operations in the field... thank you!
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of $\mathbf{S 0 1 2 1}$ (DL sid comms)."

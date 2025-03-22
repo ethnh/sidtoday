@@ -1,0 +1,42 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Interview with a DISE
+
+FROM: Jim Cusick
+Assistant Deputy Director for Data Acquisition (S3)
+Run Date: 02/19/2004
+
+FROM: Jim Cusick
+Assistant Deputy Director for Data Acquisition (S3)
+(U//FOUO) Note from SIGINT Communications: As promised, here is our interview with a member of the Defense Intelligence Senior Executive Service. Thanks to Jim Cusick for answering our questions!
+
+- (U) What do you consider the role of a DISE to be? How does it differ from that of a GS employee or a DISL?
+(U) I am going to guess that, if you asked every Defense Intelligence Senior Executive (DISE) that question, there would be no shortage of ideas of what that role is. You can get the pat answer from the "competencies" which a DISES candidate and DISE must exhibit to either enter or remain in the DISES, but my name isn't Pat. From my perspective, the principle role of an NSA "senior" is to think, plan, and act at the strategic level in order to ensure that we are prepared to accomplish the mission, do indeed accomplish it, and finally learn corporately from what we did.
+(U//FOUO) NSA has a long and illustrious history of being able to handle any crisis that comes to visit our nation or its allies. We think and act tactically. Give us a crisis, a disaster, or a war, and we focus like a laser on getting the job done. We don't much care what sacrifices are involved. Accomplishing the mission is what we live and breathe. It drives us. It nourishes us. It sustains us. I know of no group of people on the planet that is more dedicated to their mission or who can do it better. By the way, the mission is preserving the safety and well being of our country and its interests.
+(U//FOUO) It is rarely something that even those with the most Pollyanna-ish outlook on life would associate with fun. However, someone has to devote their attention to ensuring that the national treasure we all know as NSA can continue to avoid or shorten conflict, give our policy makers and our military commanders the decisive edge, and save lives. Someone needs to labor to ensure that:
+- resources are available to work our miracles,
+- people with the right skills are here to do the job and are properly nurtured,
+- the individuals and the organizations duly elected by our fellow citizens know we are focused on the security of the nation and are spending their very hard-earned tax dollars as wisely and as effectively as possible, and
+- we appropriately collaborate with our partners to our mutual advantage.
+This unglamorous -- but critically necessary -- task falls in large part to what we, affectionately or otherwise, refer to as seniors.
+
+
+## SERIES: <br> (U) Senior Execs
+
+1. Senior Executive What Does It Mean?
+2. How Are Seniors Selected and Assigned?
+3. Seniors' Pay and Benefits
+4. Interview with a DISE
+- What is the best part of being a DISE? ...the hardest part?
+(U//FOUO) The best part of being a DISE is being privy to the strategic picture and being positioned to influence operational and personnel decisions at that level. For this former SOO, nothing is more stimulating and fulfilling than current operations, but prosecuting current operations doesn't happen by accident. In order to enable those wonderful things done daily by the vast majority of us, you need to know where the nation is going, establish the goals and objectives to move you in that direction, and ensure that the corporation has the resources to realize the goals and objectives.
+(U//FOUO) Like never before in NSA's history, the DISE population is knowledgeable of exactly where the Director is leading us and has ample opportunity to influence the actual implementation of our corporate goals. Getting to know the future superstars in the GG13 to GG15 range and working with them to help them to realize the potential they already exhibit makes my day and assures me that NSA will have superb leadership in the future. I have mentoring relationships of varying degrees of formality and informality with almost 20 great people. The time spent with them is often hard to find, but it is one of the highlights of my career.
+(U//FOUO) The hardest part is no longer being involved doing the work that makes NSA a national treasure. I was hired as a linguist and spent my first 25 years on the production side of the house doing language, analysis and reporting related tasks. I then moved over to the access and collection side of the equation and enjoyed that tremendously as well. It was great fun and about as intellectually rewarding as anyone has a right to expect. I miss the rush of pulling together a report that is going to arm the President with information to win the day for the nation. Now I am focused on getting the resources so others can do that work and trying to ensure an environment conducive to their success, professionally and personally.
+- What are the "must have" talents a person needs to succeed as a DISE?
+(U) Any DISE worth his/her salt needs a sense of perspective, a good sense of humor, a long memory for excellent interaction with others and total amnesia regarding real or perceived wrongs, a bias toward working as a member of a team, character above reproach, complete candor and unimpeachable loyalty, a strong desire to get involved with and nurture the people around him/her, a preference for managing rather than avoiding risks, patience, and a paucity of the "vertical pronoun" (I) in his/her vocabulary.
+- What advice would you give to someone who would like to become a DISE? What training/experience should that person seek out?
+(U) Have a long discussion with your spouse, family, significant other, yourself. Make absolutely certain you both/all agree that you can live with potentially long hours, a good deal of real and selfimposed pressure, occasional missed family events and meals, and remember that a healthy, functional family is probably the most important factor in your professional success and your mental and physical health.
+(U) If you are of one accord on that front, find a mentor who shares your values and believes in you. Let providence take you where it will. If you never get elevated, you still know your family
+loves you, you live in the greatest nation on the globe, you are making a difference for your fellow Americans and those you love, you undoubtedly have a job twice as interesting as anyone outside the IC, you are well paid, you are eating regularly, you have never slept on a grate.... You get the picture. Your value as a tremendous asset to your country, your family and your Agency will never hinge upon elevation. God bless America!
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid comms)." 
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

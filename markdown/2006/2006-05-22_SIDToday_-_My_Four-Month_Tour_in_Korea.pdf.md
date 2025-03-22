@@ -1,0 +1,25 @@
+![img-0.jpeg](img-0.jpeg)
+(U) My Four-Month Tour in Korea
+
+FROM:
+Intelligence Analysis Intern
+Run Date: 05/22/2006
+(U//FOUO) When I reflect upon my four-month TDY to SUSLAK*, South Korea I immediately recall one moment. I remember it very clearly:
+(S//SI) It was very sunny, very windy, and very cold when we were leaning precariously off the edge of the roof of a hardened concrete building perched at the top of a mountain on a nearly deserted island facing the North Korean shoreline in an attempt to raise a heavy and unwieldy 5 -foot HF collection antenna 10 feet above the roof on an ominously slender and wobbly pole situated off the side of the building in unpredictably windy conditions while North Korean "fishing boats" watched us, and probably laughed at us, as we nearly froze to death during the 3-hour ordeal.
+(S//SI) North Korean shoreline as seen from the top of the collection site.
+(S//SI) Fortunately no one fell off the roof. Though if one had fallen off the roof and down the mountainside, he would have been stopped half-way down by the heavily barbed wired fence, well before tumbling down onto the beautiful beach covered with landmines.
+(S//SI) At the time I was just cold. But looking back, it was a great experience. And it is unconventional experiences like that, that made my four month TDY to Korea so beneficial. None of my previous tours allowed me to really participate and learn about the missions and operations that take place outside the world of an intelligence analyst. I wanted to go out to Korea to get long-term exposure to one of NSA's largest and more important field sites and brought this idea before IADP (Intelligence Analysis Development Program) leadership. After closely coordinating with them and securing funds for my trip I was able to arrange my trip by working closely with SUSLAK's Chief of Staff and Chief of Analysis and Production -- a process that took several months, but was well worth it.
+(S//SI) While I did spend some time on analysis and reporting, most of my time was spent working on other projects or just leaning about SUSLAK's diverse mission. I was able to attend and meet senior Korean and US intelligence officials -- both civilian and military. I went out to visit Korean field sites with Information Assurance Directorate personnel to check on NSA-owned equipment being used by the Koreans. I visited the DMZ (Demilitarized Zone) and Panmunjon with all of the NSA Field Chiefs attending the Asian Pacific Conference at SUSLAK. I got take the new bullet train ( 300 kilometers per hour, or 186 mph ) down to K-50* to help install a new reporting system. I went on a four day deployment to simulate wartime analysis and reporting.
+(U) A South Korean soldier on guard at the DMZ. The concrete beam running from building to building
+represents the line between North and South.
+(S//SI) And when I was not out on the road I was in the office working on the Smart Book, an all-source guide to the North Korean target that includes the go-to-war plan for the Korean and US forces, target knowledge on North Korean armed forces and civilian leadership, and an explanation of intelligence requirements for North Korea. And another one of my memorable experiences was the celebration of DSA's (Korean NSA) 50th Anniversary. This included a huge field day with lots of food, drinks, music and Korean and American SIGINTers from all over the Korean peninsula participating in sports such as soccer, tennis, basketball, softball, tug-of-war,
+volleyball, and three-legged races.
+(U) Events and experiences outside of work also make helped make the overall experience positive. The greater metropolitan Seoul area, with a population of over 20 million, offered lots of things to keep me busy and entertained in my off-time. I spent one weekend touring the five major royal palaces in the city to appreciate Korean culture. Other afternoons were spent soaking in the sights and sounds of Myong District --- a popular pedestrian-only shopping district located in downtown Seoul full of cafes, restaurants, and both Western and Eastern stores. And with help from a friend, I spent several weekends snowboarding at Daemyun --- the ski resort that recently hosted the 2006 Junior World Ski and Snowboard Championships.
+(U) One of the five major palaces in the city of Seoul.
+(U) In sum, my total experience in Korea was beneficial professionally because of all the experience I gained but also personally because of all the friendships -- both American and Korean --- I made over the four-month period.
+*(U) Notes:
+(U) SUSLAK = Special U.S. Liaison Advisor to the Republic of Korea
+(S//SI) K-50 is a South Korean Defense Security Agency (DSA) site
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

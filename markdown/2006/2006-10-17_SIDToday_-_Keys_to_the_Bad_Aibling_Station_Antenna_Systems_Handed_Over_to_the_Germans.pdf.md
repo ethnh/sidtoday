@@ -1,0 +1,13 @@
+![img-0.jpeg](img-0.jpeg)
+(S//SI//REL) 'Keys' to the Bad Aibling Station Antenna Systems Handed Over to the Germans
+
+FROM:
+FORNSAT Fixed Satellite Services (S33122)
+Run Date: 10/17/2006
+(S//SI//REL) FORNSAT's Fixed Satellite Services branch recently completed the upgrades of seven antenna systems at Bad Aibling Station. These systems were part of the Bad Aibling Station transition of equipment to the German BND (Bundesnachrichtendienst - Federal Intelligence Service)*. This multi-year effort encompassed all aspects of the antenna systems.
+(S//SI//REL) First, in 2004, three radomes had to be completely replaced due to hailstorm damage, and two other radomes had to be re-calked and repainted. In addition to the radome work, the RF and control of these antennas were rerouted from the BAS OPS building to the BND Mangfall Kaserne OPS room. Each antenna had a completely new servo system installed, some antennas had new feed systems installed, and new RF systems were installed on all antennas. A new Radio Frequency Distribution (RFD) switch ( $32 \times 64$ ) was also installed in the OPS room to take the incoming RF and redistribute it to various down converters.
+(U//FOUO) Finally, with a new Monitor and Control (M\&C) system, all parts on the newly installed antenna systems can now be controlled from the OPS room. This adds to the system flexibility and ease of monitoring all seven antennas, simultaneously. The M\&C system graphically displays the operational status of all the installed systems. This significantly reduces trouble-shooting time by directly identifying the exact component that has failed. To reduce downtime, if a Low Noise Amplifiers (LNA) fails, over 50\% of the antennas have redundant (backup) LNAs that will automatically switch to a good amplifier.
+(S//SI//REL) Handover ceremonies took place on 21 September 2006 outside antenna 4, at which time the "key" to the antenna systems was formally turned over to the BND. BND personnel were involved with this effort from start to finish (from design reviews through installation), and have expressed their satisfaction with the completed system, and the great flexibility provided to them by being able to control everything from one OPS room computer terminal. With the handover of the antennas complete, BND personnel will now take over the task of maintaining and operating these systems.
+(U//FOUO) Pictured below are just some of the numerous individuals who worked on this effort to bring it to a successful conclusion.
+![img-1.jpeg](img-1.jpeg)
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

@@ -1,0 +1,12 @@
+![img-0.jpeg](img-0.jpeg)
+(S//SI//REL) Flying BEAR Approach Alaska -- SIGINT Is Watching
+FROM: Captain $\square$ USAF AMOC Chief of Analysis Run Date: 07/17/2006
+(S//SI//REL) SIGINTers at the AMOC follow the flight route of Russian strategic-strike aircraft.
+(S//SI//REL) While a recent strategic aviation exercise showcased Russia's long-range aviation capabilities, it also gave the Alaska Mission Operations Center (AMOC) a chance to prove its mettle. As Russian Tu-95 BEAR-H aircraft approached the Alaskan mainland, pursuing the most provocative flight route seen since 1988, the AMOC team provided critical, real-time intelligence reports to Eleventh Air Force and Alaska Northern Air Defense (NORAD) Region decision-makers.
+(S//SI//REL) In the end, those decision makers opted to not to employ fighter escorts, but thanks to the AMOC, they knew exactly where the BEAR were - and where they were headed every step of the way.
+(S//SI//REL) On 11 April, four BEAR departed Ukrainka Airfield (located in Siberia near northeastern China) and flew along the Aleutian chain, coming within 30 miles of the Alaskan mainland before finally landing at Anadyr, on the Bering Sea. A simultaneous flight of two BEAR left Ukrainka and headed south along the eastern coast of Japan, traveling southwest of Tokyo before turning around -- accompanied by Japanese fighter escorts.
+(S//SI//REL) On 14 April, the four deployed BEAR again departed Anadyr, this time flying along the northern coasts of Alaska and Canada to the extreme limit of their fuel capacity, and penetrating both the Alaskan and Canadian Air Defense Identification Zones (ADIZ) before returning home to Ukrainka.
+(S//SI//REL) Tracking the BEAR throughout the exercise, the AMOC provided tip-offs to NORAD of bomber operations AWACS radar also detected the airborne BEAR, but it was positive identification from ATC one of the AMOC's junior HF Morse operators, indicating the activity in fact correlated to the Tu-95 BEAR, that enabled the Alaskan NORAD Region to calmly respond to the ADIZ incursions.
+(S//SI//REL) Providing 24/7 support via its National Tactical Integration cell as well as the watch floor, the AMOC's swift, accurate reporting kept the US Air Force a step ahead - and well aware of the Russian BEAR.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

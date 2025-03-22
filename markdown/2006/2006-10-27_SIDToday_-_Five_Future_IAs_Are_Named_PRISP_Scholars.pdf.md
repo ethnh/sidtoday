@@ -1,0 +1,17 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Five Future IAs Are Named PRISP Scholars
+
+FROM
+Director for IA Hiring Programs
+Run Date: 10/27/2006
+(U//FOUO) Congressionally funded program pays college expenses (up to \$25,000) for students and new-hires with critical skills.
+(U) The Intelligence Analysis Skill Community (IASC) recently selected five college seniors as 2006 Pat Roberts Intelligence Scholars in Intelligence Analysis; they will spend their final year of college as NSA employees. The IASC was also able to provide almost \$250,000 in tuition and book reimbursements to 23 Intelligence Analysis Development Program (IADP) participants hired within the past year.
+(U//FOUO) The Pat Roberts Intelligence Scholars Program (PRISP), created in 2003, is a Congressional initiative that provides the Intelligence Community with an enhanced means to recruit, train, and retain analysts with critical skills. In return for a service obligation, PRISP provides up to $\$ 25,000$ for tuition and books for current students and provides reimbursement for academic expenses to current employees with less than one year's experience in the Intelligence Community.
+(U//FOUO) PRISP Scholars' educational programs must focus on specific areas of specialization approved by the Office of the Director of National Intelligence (ODNI), which has executive oversight for the program. These areas of specialization are subjects in which the current or future analytic capabilities of the Intelligence Community are or are likely to be deficient. At NSA, PRISP focuses on the Intelligence Analysis and Language Analysis Skill Communities and on computer- or IT-related fields for the Global Network Analysis work role; each has established unique criteria for selecting high-potential candidates.
+(U) Three of the students selected as 2006 PRISP IA Scholars are graduates of the 2006 Intelligence Analysis Summer Program (NETA 2007). Two currently attend Georgetown University, and the others attend Ohio State University, Louisiana State University, and Mercyhurst College in Pennsylvania. Their majors include International Studies, Foreign Service, International Politics, and Intelligence Studies. Four of the students also have critical foreign language skills in Arabic. Upon graduation, all five will enter the IASC's intensive, 3-year IADP, joining the other 15 PRISP Scholars already training to be cryptologic intelligence analysts.
+(U//FOUO) PRISP is funded by Congress, and each year the ODNI allocates the funds to participating agencies across the Intelligence Community, based on analytic population. (So keep those DANCEHALL records up-to-date!) As noted above, all recipients of PRISP funding must sign an 18-month service obligation to their current Agency to be eligible for the funds.
+(U//FOUO) Complete information about PRISP and NSA's participation in the program are available on both NSA's external homepage (go to www.nsa.gov and select "Careers," "Student Programs," and then "Scholarships/Employment Programs") and on NSA's internal web ("go mb" then click on "College Programs" under "Student Programs"). PRISP criteria are subject to change annually, so interested candidates should consult the NSA homepage each year.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

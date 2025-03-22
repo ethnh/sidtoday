@@ -1,0 +1,12 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Performance Ratings Due Between 31 December 2003 and 31 January 2004
+
+FROM: $\square$ (SID Performance Management Executive) and $\square$ Unknown
+Run Date: $12 / 08 / 2003$
+(U//FOUO) The P3 2003 cycle, closing date of 31 December 2003, is fast approaching (see the P3 Guidance webpage for details), so we want to put the rating guidelines on record again. We recognize that, given the very difficult conditions within which we operate, "doing our jobs" is stellar performance. It does not mean you are merely average, it means that you are doing the jobs you are supposed to be doing in the manner expected. Let's face it, our jobs are hard, but to make this work we must all use consistent guidelines to assess performance objectively. Only then will the P3 be the powerful tool we need, and better prepare us for a new compensation system.
+(U//FOUO) With this in mind, please refamiliarize yourself with the SID 2003 P3 Rating Guidelines.
+(U//FOUO) As you are all well aware by now, one of the Agency's goals is to be a well-aligned organization having direct linkage at all levels of our strategic plan. Over the past year SID has made considerable progress in defining, redefining and articulating our strategy and plan for the SIGINT Enterprise. You can find the strategy and plan on the SID home page ("go si") under "Reports and Briefings," the first three listings.
+(U//FOUO) One of our key alignment tools for achieving the SID Strategic Plan's Goal 5, Objective 4** is the Performance Management System (P3). Since 2001, all SID Seniors (both DISES and DISL) have crafted their performance plans based on SID strategy and plan. Then all SID workforce performance plans are to cascade from there to achieve alignment. While this cascading process is time-consuming, it is integral to our goal of alignment at all levels of SID.
+(U) Only through a truly collective effort, with everyone adhering consistently to the same ratings guidance, will we achieve the objective of true performance management. Thanks in advance for helping us work toward this important goal.
+**(U//FOUO) Goal 5, Objective 4 is: "Influence the development of the corporate performance management system, and ensure effective implementation within the SIGINT Enterprise to properly assess performance, reward significant achievement and shape the workforce."
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

@@ -1,0 +1,13 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Enjoy the Holidays
+
+FROM: MG Richard P. Zahner, USA
+SIGINT Director
+Run Date: 12/21/2006
+(U) As the end of the year 2006 approaches, I thank all SIGINTers here at Fort Meade and around the world for your invaluable contributions to our national security, and extend my best wishes for the upcoming holiday season.
+(U) It has been a challenging year, with the campaigns in Iraq and Afghanistan, the larger Global War on Terrorism, and a host of other issues all demanding top-notch SIGINT support. We have all seen firsthand the critical importance of SIGINT to our customers, both military and policy-makers, in defending our homeland and pursuing our national objectives. We are also well aware of the many hurdles that must be overcome in order to produce timely and accurate SIGINT. I am pleased to say that SIGINTers across the board have risen to the challenge and made a real difference for our nation.
+(U) These achievements have been accomplished against a backdrop of an increasingly complex international framework, a rapidly transforming communications environment of converging networks and our own critical efforts to transform our SIGINT System and its personnel. You have taken each of these challenges in stride and have made key contributions to our nation, a nation that remains at war five years after the events of $9 / 11$.
+(U) The next year will prove equally challenging, if not more so. You know as well as I that each success brings demands for better and more comprehensive support. Transformation for all elements of the SIGINT System will have to accelerate if we are to both take advantage of the opportunities afforded us, and to preclude being left behind by the rapid transformation of societies and technologies. Rather than take counsel of our fears, we should look to the rich talents that each of you brings to the team, and your selfless service. With these manifest riches, I have a strong sense that together we can take on and excel at each challenge we are presented, and in that process create a better future for those who will follow us.
+(U) As we enjoy the start of our holiday season, please reflect upon the contributions you have made to our security, and take pride in what you have accomplished. Enjoy with your families and loved ones the bounty we have been afforded, and remember those who remain in harm's way for our safety. It is an honor to serve with you, my best to all, and I look forward to taking that next challenge with you in 2007.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

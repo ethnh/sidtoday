@@ -1,0 +1,11 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Call for Language Analysis Skill Community's Keystone Language Award
+
+FROM: Renee M. Meyer
+NSA/CSS Senior Language Authority
+Run Date: 12/02/2003
+(U//FOUO) The Director, NSA/CSS invites nominations for the prestigious Keystone Language Award. This honorary award seeks to recognize and thus encourage the best efforts among NSA/CSS military and civilian language analysts and is granted to individuals in recognition of the highest technical and operational productivity in the field of language. Named for the remarkable decryption and translation of the Rosetta Stone in the late 18th Century, the award represents one of the highest and most coveted forms of recognition in the language community. It is given twice a year to an elite few.
+(U//FOUO) Supervisors are asked to consider the most creative, innovative, and highly productive language analysts in their organizations for the Keystone. The achievements of nominees during the last 12 to 18 months should have added to the general store of knowledge or led to a specific breakthrough. For specific submission criteria and suggestions see guidelines at: KEYSTONE .
+(U//FOUO) Nominations should be in memorandum form addressed to the Language Analysis Keystone Language Award Panel, through appropriate administrative channels within the individual's assigned organization. Nominations are also welcome from three working language analysts who can personally attest to the excellence of the language analyst being recommended, as long as they are not subordinate to the individual being recommended. Peer nominations do not need to go through administrative channels within the assigned organization.
+(U//FOUO) Keystone nominations should be submitted in hardcopy with appropriate signatures to the Office of the NSA/CSS Senior Language Authority, Attn: Keystone Language Award Panel, 2W082 Ops 1, Suite 6486, and also in softcopy to $\square$ nsa, by 6 February 2004 for consideration for the Spring 2004 award cycle. If you would like more information, please contact www.neystone.org (insta) or call www.neystone.org. The operating provisions under which this award is administered are delineated in the PML Chapter 503.
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

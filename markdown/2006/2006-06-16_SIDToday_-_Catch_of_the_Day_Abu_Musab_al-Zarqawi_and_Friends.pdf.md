@@ -1,0 +1,22 @@
+![img-0.jpeg](img-0.jpeg)
+(TS//SI) Catch of the Day: Abu Mu'sab al-Zarqawi and Friends
+FROM:
+CSG Analyst
+Run Date: 06/16/2006
+(TS//SI) Special Operations Task Force Iraq is situated on a small self-sustaining compound in Iraq. The Task Force is comprised of individuals from a number of agencies, as well as all areas of intelligence, working together towards one goal. It is a phenomenal partnership. Recently, this partnership experienced the success story of all success stories... the "Big Fish" story that everyone hopes to tell one day.
+(TS//SI) The CSG* office is positioned off the main Task Force (TF) floor, in an old hangar, in a small $25^{\prime} \times 15^{\prime}$ room. On an average day, a CSG analyst works 14 to 16 hours a day depending on current operations; however, during the last few weeks that has increased to 16 to 18 hours a day. TF staff elements and analysts filter in and out of the CSG office throughout the day searching for any shred of SIGINT that could lead the TF to the next steppingstone in the Al Qa'ida in Iraq (AQIZ) leadership, with hopes of eventually leading directly to Abu Mu'sab alZarqawi (AMZ).
+(TS//SI) This week, those steppingstones paid off. After weeks of multiple INTs working together, AMZ was finally killed on 7 June 2006, along with his personal religious advisor Shaykh 'Abd-al-Rahman. Following the strike, the TF floor waited in anticipation for the results of the strike. Did they get him this time? Was it really AMZ? Initial radio chatter indicated that a male on target resembled the "primary PC" - AMZ. ("PC" means "precious cargo," a term used to refer to the intended target.) The TF floor erupted into applause. Everyone knew what was happening - history was being made. At the same time, everyone knew they had to wait for official confirmation - fingerprints and DNA, among other things before the rest of the world could be told.
+(TS//SI) What began as SIGINT surveys initiated by DNI* tippers over 2 months ago eventually led to the demise of Shaykh 'Abd-al-Rahman and AMZ. The results of these surveys were thrown into a spaghetti mess of an Analyst Notebook (ANB) chart. CSG analysts methodically (and painfully) manipulated the ANB chart into a legible chart that revealed a meticulously formed network. The depth of the network quickly became obvious and we knew we had found a gold mine of new targets which included Abu Ayyub al-Masri, Shaykh 'Abd-al-Rahman, and other very senior AQIZ leadership.
+(TS//SI) CSG analysts spent countless hours developing the core numbers of the network. While linguists tasked dozens of numbers for voice and SMS* transcription, CSG analysts built target packages that included a brief description of the target, an ANB diagram of the target handset's contacts, geo-locational information, pattern of life, and all available gisting. This comprehensive product allowed the TF analysts to decide who was and who was not a viable target. Once the value of a target was determined, the TF's multi-INTs started coordinating efforts to track these newly discovered high value individuals. Additionally, detainee reporting revealed that Shaykh 'Abd-al-Rahman met with AMZ once a week. With this information, the TF was able to develop a pattern-of-life for Shaykh 'Abd-al-Rahman.
+(TS//SI) Weeks of SIGINT, IMINT, HUMINT, and detainee reporting finally led to June 7th. The TF analysts were able to identify triggers that would indicate Shaykh 'Abd-al-Rahman was going to meet AMZ. At approximately 1100Z, Shaykh 'Abd-al-Rahman was on the move and, one by one, the triggers for an operation were being met. He was on his way to meet AMZ. As he traveled through Baghdad, north to Ba'qubah, the TF was poised to strike... and they did. The "primary PC" was eliminated.
+(TS//SI) Being a CSG analyst with Special Operations Task Force Iraq is an unbelievable experience by itself... but, to be here during the last 4 months has been phenomenal - an all
+time career high. I can't wait to come back!
+*(U//FOUO) Notes:
+CSG = Cryptologic Services Group
+DNI = Digital Network Intelligence
+SMS = Short Message Service
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

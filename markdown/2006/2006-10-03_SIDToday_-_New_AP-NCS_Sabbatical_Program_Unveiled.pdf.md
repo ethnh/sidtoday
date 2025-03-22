@@ -1,0 +1,17 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) New A\&P-NCS Sabbatical Program Unveiled
+
+FROM: Carl L. Johnson and Leonard T. Reinsfelder
+Run Date: 10/03/2006
+(U//FOUO) Sabbatical program will allow S2 experts to work at NCS for 9-12 months to assist with training.
+(U//FOUO) The SID Deputy Directorate for Analysis \& Production (A\&P, S2) and the National Cryptologic School's Center for Cryptology (NCS, E9) are pleased to announce a new and exciting professional development opportunity -- the A\&P/NCS Sabbatical Program. This jointly established and endorsed program is designed to increase and maintain the professional health of the NSA/CSS analytic community by lending A\&P's subject matter expertise to the NCS to assist the School in meeting A\&P's most critical training requirements for the civilian and military analytic workforce, worldwide.
+(U//FOUO) A\&P subject-matter experts (SME) will have the opportunity to deploy to NCS/E9 for assignments of 9 to 12 months to help design, develop, refresh, and/or deliver analytic training. Program participants located throughout the Extended Enterprise will be colocated with their respective Education and Training officer (ETO). SMEs must have a minimum of three years' experience in the target or topic area identified by the NCS in its requirement. All mid-level analysts (civilian grades 12,13, or 14; military E5, E6, or E7) are eligible to apply.
+(U//FOUO) The A\&P/NCS Sabbatical Program provides both professional development and career advancement opportunities for mid-career analysts. SMEs offering their services and performing well during their deployments will be helping to satisfy some of the highest priority training requirements jointly identified by both SID and the Associate Directorate for Education and Training (ADET) and will be considered to be fulfilling the Agency criteria for both continuous professional growth and for the transfer of knowledge.
+(U//FOUO) On our behalf, Analytic Resources (S201A) will manage the selection and deployment of SMEs to the Sabbatical Program, and NCS/E9 will provide administrative support for A\&P's deployed SMEs. A process for the articulation and advertising of NCS/E9's requirements for SMEs has yet to be developed, but you can expect a call for assistance to be out within a month. Additional information on the Program is available in the Concept of Operations (CONOP) that can be found on the Intelligence Analysis Skill Community web page . (Scroll down to "Career Development.")
+(U//FOUO) We understand how difficult it is for many of our most talented and profoundly knowledgeable SMEs to contemplate leaving mission for perhaps as much as a year, but at the same time we also know that this is the only solution that will fill our significant training gaps and place the responsibility for training back where it belongs, in ADET. ADET cannot succeed without A\&P, and your assistance is critical to A\&P's long-term success. Therefore we both strongly encourage you to be on the lookout for the follow-on announcements and to consider this opportunity very seriously: you will be helping to deliver our future.
+
+Carl L. Johnson,<br>SID/Deputy Director for Analysis \& Production (S2)
+
+Leonard T. Reinsfelder, Dean/Chief, Center for Cryptology (E9), Associate Director for Education and Training (ADET)
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

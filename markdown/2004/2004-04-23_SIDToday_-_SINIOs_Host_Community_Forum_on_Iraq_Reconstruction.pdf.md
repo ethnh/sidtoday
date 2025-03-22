@@ -1,0 +1,19 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) SINIOs Host Community Forum on Iraq Reconstruction
+FROM: $\square$
+Deputy SINIO for Economic Issues (S17)
+Run Date: 04/23/2004
+
+FROM: $\square$
+Deputy SINIO for Economic Issues (S17)
+(S//SI) Judging from the news, one might conclude that the story of Iraq goes no further than conflict. Much about the Iraqi recovery isn't aired, but that's where a larger story can be found. With the coming handover of power to the people of Iraq, information on the restoration of Iraq's economy and infrastructure are likely to only gain in importance. With that in mind, NSA's SINIO and Deputy SINIO for Economics on April 15 hosted an afternoon of discussions to examine and elevate awareness of those issues.
+(S//SI) Analysts, customers, and partners from CIA, Commerce, Treasury, State, and DIA came to NSA to present their perspectives in two separate sessions. The first session was attended by product line leadership from the Offices of Middle East/North Africa, International Security Issues, Regional Targets, and China and Korea, as well as by representatives from the Iraq Issue Manager Team (IMT) and the Requirements Analysis Center (RAC). The second was an open forum for NSA analysts to discuss the issues with the visitors in greater depth.
+(S) As noted in both sessions, stable recovery and the security situation are often linked, as in the importance of pipeline security to oil exports. Establishing and maintaining security is, and will remain, important in order to attract outside technical assistance and investment. The sources, movement, and uses of financing by Iraqi insurgents are another area where Iraq's security and infrastructure intersect, and intelligence that provides insight on such financing will continue to be essential to security.
+(S) The discussions covered aspects of recovery not tied to security as well. For example, as control shifts to the Iraqi people and the economy becomes increasingly sophisticated, we may face challenges in accessing vital information about Iraq's economic and financial infrastructure. Policymakers here will nonetheless continue to need access to such information to know if sound policies are being developed by the Iraqi government and to learn what the leadership views are on economic reform.
+(S//SI) It was also clear from the discussion that much of the forward progress within Iraq will depend on events that take place beyond its borders, and the challenges in those areas are no less significant. A healthy trade posture and development of the non-oil sector will be an important pillar of Iraqi recovery, but key issues such as Iraq's status in the World Trade Organization are already prompting some states to voice their limits in supporting Iraq's progress. On the issue of debt relief, the US continues negotiating with other states over how much debt incurred under Saddam should be forgiven. For the wide range of these reconstruction issues, SIGINT has and will continue to have an impact.
+(C) As notes from the sessions are finalized, issues presented by the Community will be compared against standing Information Needs. With guidance from the IMT and the RAC, any gaps will be submitted into the NSRP. We will continue a dialog with the Community and will reach out to policymakers to maintain an up-to-date awareness of key issues. For more information about these sessions, to include session minutes, or to provide any comments, please contact the SINIO or Deputy SINIO for Economics, Brenda Martineau (@nsa) or nsa), on
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

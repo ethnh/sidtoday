@@ -1,0 +1,15 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Systems Engineering: Using Barcodes to Track SIGINT Data
+
+FROM: Michael McNamee
+Chief, SIGINT Systems Engineering (S01A)
+Run Date: 05/03/2006
+(S//SI) SID has a critical need for a system that will allow us to better manage and correlate the trillions of pieces of SIGINT data that we collect every year. The solution? -- applying barcodes, or Universally Unique Identifiers (UUIDs), to label metadata records and the source content will allow our systems to automatically find and link the metadata records to the source content stored in different locations, or associate many segments of one multimedia session to one another.
+(U//FOUO) A joint team composed of members from SID and the Information Technology Directorate - i.e. the UUID IPT (Universally Unique IDentifier Integrated Process Team) - has worked over the last year to coordinate adoption of a standard for such a labeling system. Now the team's work is complete: SID and ITD have agreed to use a standard, as detailed in the document RFC 4122 *, for tagging data objects. In addition, the 5 -eyes partners are working on incorporating RFC 4122 into their respective standards as well.
+(U//FOUO) The key advantage of the UUID is its ability to remain unchanged as an identifier from assignment at the collection end of the SIGINT process through analysis and dissemination. Another plus is that these numbers require no registration, centralized management or assignment authority, making them relatively inexpensive to generate. UUID numbers avoid barcode "collisions" where unrelated data items may have the same identifier. Finally, standardization benefits the SIGINT system in that UUIDs would be handled similarly regardless of purpose (e.g. session, transport, etc.), thereby reducing the chances of cataloguing UUIDs erroneously with the same identifiers.
+(U//FOUO) The UUID Standard describes an algorithm that automatically produces numbers that are globally unique across time and space. Technical details about this standard include information about the generation of the barcode and its attributes. The time-based version will be used to generate UUIDs within the enterprise architecture because it is a well-documented International Telecommunication Union (ITU) standard and code is readily available. Open source code libraries are available that implement this standard. Source code libraries for Java, C/C++ and PERL have been requested via the Free and Open Source Software (FOSS) program.
+(U//FOUO) The UUID IPT recommends that a set of libraries that meet functional, performance, and security requirements (based on open source code) be part of any implementation plan that follows the adoption of this standard.
+(U//FOUO) For additional information on this standard or the UUID Integrated Product Team (IPT), please contact: (SSE) NSA/CSS SIGINT Systems Engineering (s).
+*(U) Note: RFC 4122 is titled " A Universally Unique IDentifier (UUID) URN Namespace "
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

@@ -1,0 +1,13 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Reporters: Will Sharing Your Expertise Improve the SIGINT Product?
+
+FROM: Cindy Farkus, Assistant Deputy Director for Analysis \& Production (S2) and $\square$ Chief of the SIGINT Assessment Cell (S2)
+Run Date: 02/02/2006
+(U//FOUO) Tell us: Does NSA add value with our target expertise?
+(U//FOUO) The A\&P Directorate provides a critical component in delivering value from NSA to the Intelligence Community. If we strip away the systems and the processes, A\&P is made up of people with target expertise. Is our expertise equal to, less than, or greater than the expertise at DIA, NGA, CIA, possibly the FBI, or any of the military commands?
+(U//FOUO) Few people in the Intelligence Community have access to the unique SIGINT insights. Those insights come from access to data and information that gives NSA knowledge and perspective on the target that virtually no one else has. That wealth of knowledge that is the accumulation of dedicated hard work from a great deal of time spent on a SIGINT target. Are you willing to share that expertise in written reports? Are you willing to leverage your insights to work with an Intelligence Need to expose the unasked question - and then answer it?
+(U//FOUO) For some, this is nothing new. But many analysts were trained in a system that discouraged sharing insights, sharing expertise, and making projections in our products. While there have been swings in either direction, our current production model has encouraged reporting of facts - the target moved from location A to location B. Unless a specific piece of intercept told us why, analysts were not given the opportunity to express an insight formed by years of working the target. Sharing more than the facts does not transform NSA into becoming an all-source agency; however, it does provide the nation with something we have long been encouraged to produce - "Finished SIGINT."
+(U//FOUO) If you have worked on a target for years, have produced hundreds of EGRAMs, and are considered to be the absolute expert on a given target, you only really add value to the Intelligence Community's body of knowledge if you share your expertise in each and every product you write. Being a true target expert comes with an obligation to share that expertise. Recognize your role as an expert.
+(U//FOUO) To share your thoughts, please send your comments to SID today (use the "comment/suggestions" function below) or log on to the NSA blog (type "go blogNSA") and respond to this article under 's or Cindy Farkus' blog.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

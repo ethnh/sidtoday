@@ -1,0 +1,15 @@
+![img-0.jpeg](img-0.jpeg)
+
+# (U) Not a Customer Anymore 
+
+FROM: RDML Tony L. Cothron, USN
+SID/Deputy Director for Customer Relationships (S1)
+Run Date: 02/23/2006
+(U//FOUO) At the end of January, Rear Admiral Tony Cothron was named SID's new Deputy Director for Customer Relationships (S1) (see announcement). Here are his impressions after a few weeks on the job:
+(U//FOUO) It is tremendously exciting to be reporting to NSA and becoming a member of the SID team! As a "customer" of SIGINT and Information Assurance services for 28 years, I've always appreciated the value of SIGINT and I've been fortunate to know and work with many impressive SIGINT personnel. But looking at NSA from the inside is a lot different from just being a customer.
+(U//FOUO) What has impressed me the most in my first two weeks is the dedication, enthusiasm and the exceptional professionalism of all the NSA personnel I have met with. It is clear that this team not only appreciates the threat to our nation and our people around the world, you are DETERMINED to have an immediate and positive effect against that threat and enable our leaders and operational forces to take action.
+(U//FOUO) I'm also impressed and excited about the vision LTG Alexander has created for NSA. The goals and the pace of change for NSA are ambitious, but as I sat in my first Directors' " Rock Drill ," the sense of purpose and need were clear. There was also a noticeable spirit of teamwork and cooperation among NSA's senior leadership. Major change is always difficult in large organizations, but my sense is that this team is going to make it happen.
+(U) As a Navy Intelligence Officer, the bulk of my career has focused on providing operational intelligence either at sea or ashore in direct support of operational forces. I've had two different joint tours and three different tours in Washington where I learned the importance and role of the budget process. While "ops" are always more fun, I've come to appreciate the vital role intelligence plays supporting our DoD acquistion process and national policy making. CRD is a great fit for me personally, a chance to use my operational experience and contacts to help expand and synchronize NSA's overall efforts for maximum effect with other intelligence community, DoD and other national security agencies and our allies.
+(U) I'm on an incredibly steep learning curve in my first several weeks. The sheer quantity of new terms, technology and organizations would be overwhelming, except it has been matched with an equal amount of support by the people I've met who take the time to explain, interpret and help me understand. Other military officers who have gone through similar experiences have said not to hold my breath waiting for that steep learning curve to diminish. They've said, with a note of nostalgia in their voice, that you never stop learning at NSA -- the place is just too dynamic to stand still. Sounds like a great place to work and I'm delighted and very fortunate to be aboard!
+
+## "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

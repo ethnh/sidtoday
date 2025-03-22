@@ -1,0 +1,16 @@
+![img-0.jpeg](img-0.jpeg)
+(C//REL) Norwegian SIGINTers Are Back in Kosovo
+FROM: $\square$
+Former SIGINT Liaison Officer to Oslo
+Run Date: $12 / 11 / 2006$
+(S//SI//REL) Norwegian Intelligence Service's capabilities are greatly expanded from the previous Kosovo deployment in the mid-90s.
+(S//SI//REL) In July 2005, the Norwegian Intelligence Service (NIS) deployed its tactical SIGINT team into Kosovo, setting up a collection and reporting unit at KFOR* Hqs in Film City. This deployment was a result of the Norwegian government decision in June 2005 to commit an NIS SIGINT unit as its government's commitment to NATO. This is the first time that a SIGINT Senior partner has deployed a SIGINT/ intelligence unit in the role of supporting the coalition operation and not in support of its own country's deployed forces. The Norwegian unit is TACOM (tactical command) to KFOR and responds to direct tasking by the KFOR command.
+(S//SI//REL) This deployment would mark the second time an NIS SIGINT unit would operate in Kosovo. The first time, in August 1999, the NIS set up a collection site on top of Mt. Sotor, about 11 kilometers outside of Pristina. This was a very successful and productive operation in support of KFOR operations. During this deployment the NIS first chopped its operational control to KFOR for direct tasking and support of operations. This was an unusual move and great commitment on the part of Norway and its service to support KFOR.
+(S//SI//REL) During the NORUSA SIGINT Working Group held here at NSA Headquarters the week of 16 October, the NIS presented several briefings related to their recent deployment back into Kosovo. It can be said that this deployment is far different and actually a landmark in partner support to coalition operations. The collection capabilities of this current deployment cover the full spectrum of the signals environment. The fixed unit at Film City targets public switched telephone network (PSTN), GSM, UHF/VHF and HF. Additionally, the NIS has a mobile unit that also has UHF/VHF and GSM capabilities.
+(U) KFOR presence in Kosovo.
+(S//SI//REL) These capabilities are greatly expanded from the first NIS deployments into the Balkans in the mid-90s that carried only the most basic COMINT and ELINT capabilities. Also, today's unit is tied back to NIS headquarters in Oslo that allows all collection to be processed and analyzed both in theater and at headquarters. This communications link also allows for multinational and NSA reporting via SIGDASYS to reach the deployed NIS unit.
+(S//SI//REL) The Norwegian commitment is until the year 2008. This is a significant undertaking by the NIS, and based on its last deployment, its contribution and support to KFOR is likely to be significant.
+*(U) Note: (U) The Kosovo Force (KFOR) is a NATO-led international force responsible for establishing and maintaining security in Kosovo.
+(U//FOUO) This article is reprinted from the Foreign Affairs Digest, November edition.
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

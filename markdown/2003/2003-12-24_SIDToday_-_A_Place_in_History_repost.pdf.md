@@ -1,0 +1,16 @@
+![img-0.jpeg](img-0.jpeg)
+
+# (S//SI) A Place in History (repost) 
+
+FROM: MG Richard Quirk, USA Signals Intelligence Director Run Date: 12/24/2003
+(U//FOUO) Note from SIGINT Communications: This article first appeared on October 17th.
+(S//SI) Do you know that you are making history? You are! The war we are fighting -- not just in Iraq, but the War on Terrorism -- is a global war. It is history in the making and you are part of it, a critical part. Whether you work Latin America or Commerce and Finance, the UN mission or the Balkans, you are contributing to this fight. Uncovering targets and prosecuting known targets keeps the other side from gaining stability.
+(U) As SIGINTers we are being called upon to do more than ever before. As we have expanded our capabilities, our leaders and commanders come to us for more and more intelligence opportunities for us to make a difference in history abound.
+(U) I couldn't be prouder of your contributions and accomplishments in this war. Accolades from all directions are piling up. But, we must not rest easy in the saddle. The burden of our responsibility is great -- almost overwhelming, at times. It is hard to believe that tasks we consider routine can have such a significant impact to our nation. Although the task seems never-ending and we aren't always aware of the payoff, we need to remain vigilant and prod ourselves to ratchet up another notch. That extra effort just might save a soldier's life. We cannot forget how important the job is that we do.
+(U) We must realize, too that we are not in this alone. Intelligence is a team effort and we must respond to the nation's needs by being flexible and seeking opportunities to share and thereby improve the Intelligence Community's products. Continue to be selfless in your efforts and think only of the payoff for the customer.
+(U) We are in this fight for the long haul. The War on Terrorism has just begun and we cannot know when we will achieve victory. So keep in mind, as you do your daily tasks, that ours is a unique opportunity to influence history. Keeping America safe is our vital mission.
+(U) In the years ahead, I believe each of us will look back at this experience as a defining moment in our lives.
+
+## "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

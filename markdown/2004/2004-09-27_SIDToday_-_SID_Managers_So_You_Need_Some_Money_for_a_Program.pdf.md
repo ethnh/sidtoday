@@ -1,0 +1,20 @@
+![img-0.jpeg](img-0.jpeg)
+(U) SID Managers: So, You Need Some Money for a Program?
+
+FROM: Charles H. Berlin
+SID Chief of Staff
+Run Date: 09/27/2004
+(U//FOUO) As the new fiscal year approaches many programs face shortfalls either closing out the fiscal year or entering the new one. Other needs arise independent of the calendar. SID Planning wants you to know that there is a mature process in place for vetting and approving unfunded requests and for identifying the sources of funding to pay for them.
+(U//FOUO) First, you should know that we are not authorized to have a "reserve," or special pot of money, to fund our shortfalls. That means that either ongoing activities must be reduced if SID accepts a request for funding, or the request must be forwarded to the NSA corporation -but SID has had limited success with this latter approach. Second, MG Quirk has delegated all fiduciary responsibility and resources to the deputy directorates. Therefore, on behalf of MG Quirk, SID Planning conducts the unfunded request (UFR) process for the benefit of the deputy directorates.
+
+Here is how it works:
+(U//FOUO) Anyone can identify a shortfall, but only designated representatives from S0, S1, S2, or S3 are able to validate the shortfall and submit it for inclusion on the UFR list. The reps for S0, S1, S2, and S3 are, currently, $\square$ Jeff Krause, and $\square$ respectively. These individuals have a template they must fill out that captures essential information for decision makers about the shortfall, such as the usual identifying information as well as what the money is for and what difference it will make to performance of the program or of SID. The project name is needed, as well as cost center information, type of appropriation needed, amounts, and the status of the request.
+(U//FOUO) Once this information is complete they can submit the UFR for the list. DF52 \& S01X maintain the list. However, if the deputy directorate to which the shortfall is submitted determines that the shortfall is not valid (for any reason), or that they are able to address the need from within the organization, then the item is not eligible for the UFR list.
+(U//FOUO) At various times during the fiscal year, and more often at times of special need or interest, the above individuals get together under the auspices of SID Planning to "scrub" the list again - getting additional and updated data as needed. Then, they prioritize the list based on urgency and merit. Once the total bill is identified, they have a set of business rules to identify the potential sources of funds within SID for the set of items to be funded on the UFR list. If the sources are deemed to be more valuable than any UFR items, then those items ultimately are not funded. Because sources usually entail a direct and certain cut to level of effort in ongoing programs, there is an incentive to address UFRs no earlier than when the need is pressing.
+(U//FOUO) Soon thereafter, the list of approved UFRs, and the sources to pay for them, are forwarded to the Senior Working Group (SWG), currently consisting of $\square$ (DF52), Len Reinsfelder (S1), $\square$ (S2), Jim Cusick (S3), (S0), Dave Hurry (TD) and chaired by The SWG makes resource decisions on behalf of leadership using business rules. The SWG can also send a UFR back for further work. Decisions are made by consensus and considered binding on all parties. Immediately after decisions are made, DF52 develops change sheets for entry into SEACPS.
+(U//FOUO) If you have questions on the UFR process, please contact $\square$ (F00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

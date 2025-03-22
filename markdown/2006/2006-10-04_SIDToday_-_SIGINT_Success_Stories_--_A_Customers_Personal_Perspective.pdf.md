@@ -1,0 +1,14 @@
+![img-0.jpeg](img-0.jpeg)
+(U) SIGINT Success Stories -- A Customer's Personal Perspective
+
+FROM: David A. Henson
+U.S. Central Command, All-Source Collection Manager - Iraq (CCJ2-JOAQ) Run Date: 10/04/2006
+(U//FOUO) SIDtoday recently issued a call for articles written from a customer's point of view -how does SIGINT help them do their jobs? ... Has their use of SIGINT resulted in any success stories? David Henson of CENTCOM sent in the following comments:
+(U//FOUO) I do not have SIGINT Success Story based on one event; mine reflects the daily efforts of SIGINTers worldwide to consistently put forth a maximum effort to provide the best intelligence possible. SIGINT plays a role for me, both professionally and personally. Professionally, it helps me keep my leadership informed of ongoing activity in the CENTCOM AOR (Area of Responsibility). Personally, I know SIGINT is part of the intelligence package that will help my son, deploying for his third tour in Iraq in October, return to his family safely.
+(C//SI) My organization (CENTCOM Iraq Team) uses SIGINT reports, in conjunction with the reporting from other intelligence disciplines, to produce briefings for the CENTCOM Commander's Daily Update. SIGINT reports help us provide our leadership with the most timely and accurate information available, and aids greatly in the decision-making process. This all-source intelligence effort improves every day, and the results of this teamwork are obvious.
+(C//SI) SIGINT used to be a mysterious realm, seen only by a select few and never outside of COMINT channels. SIGINT was protected by a series of caveats and code words that required an extremely high security clearance, a documented need to know, and (it was rumored) a blood sample to read. Everyone is familiar with the long-lived anecdote that some of the best intelligence reporting in existence has never left the beltway. This is no longer true! The tactical collectors, the Cryptologic Centers, and the folks at Headquarters understand our collection requirements, and are putting out information that is concise, accurate, and factual; exactly what the user needs.
+(C//SI)The advent of tear-line reporting has allowed a greater degree of intelligence to flow down to the most critical level of our defense - the soldier on the ground. SIGINT collectors, analysts, and reporters should be aware that their efforts are being noticed at the operational levels. Hopefully, our product evaluations are making their way back to the originators.
+(U) My SIGINT Success Story is based on the hard work of every collector, analyst, and reporter, giving $100 \%$ every day. Your efforts do not go unnoticed, and for that I offer a heartfelt and long overdue "thank you."
+(U//FOUO) Editor's note: Thanks to SID CENTCOM Account Manager, for helping to produce this article.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

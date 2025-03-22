@@ -1,0 +1,19 @@
+![img-0.jpeg](img-0.jpeg)
+(S//SI) NSA and German SIGINTers Work Together against Narcotics in Afghanistan
+
+FROM
+SUSLAG, and
+International Narcotics (S2F1)
+Run Date: 09/07/2006
+(S//SI) The BND provides NS with transcripts on the Afghan narcotics target.
+(S//SI) As reported widely in the press in September, opium production in Afghanistan is soaring, putting the country's fledgling democracy at risk. How is the SIGINT system responding to support our policymakers and warfighters with intelligence related to this growing threat? A critical part of our intelligence is derived from our 40+-year cooperation with the German Federal Intelligence Service, the BND.
+(U) Poppy growers in northeastern Afghanistan (Jane's).
+(TS//SI) The German Government, a major player in the International Security Assistance Force for Afghanistan (ISAF), has committed significant resources and personnel to stabilization and reconstruction efforts in Afghanistan. In support of these efforts, and to support its domestic law enforcement efforts against the flow of narcotics into Europe, Germany's intelligence service, the BND, devotes significant SIGINT resources against the Afghan narcotics target. The BND is a capable partner and is collecting Afghan local PSTN (public switched telephone network) and international Thuraya satellite telephone traffic, from areas of northern Afghanistan and southern Tajikistan where well-developed and entrenched drug production networks are active.
+(TS//SI) For the past two years the BND has been sharing its Afghan narcotics collection with NSA. The BND provides German-language transcripts of its Dari, Farsi and Pashtu collection to Senior U.S. Liaison Activity, Germany (SUSLAG), in Bad Aibling. SUSLAG's translations are forwarded to International Crime and Narcotics (S2F), NSA Georgia and GCHQ, where the SIGINT is incorporated into the larger US/UK SIGINT counternarcotics effort. The German intercept, which provides a unique look into areas of Afghanistan not covered by US collectors, is turned around as serialized products and SIGINT-on-Demand items.
+(U) Opium dealers test the quality of their product in the opium market in Kandahar, southern Afghanistan (Jane's).
+(TS//SI) This effort has yielded great value to NSA and our customers. These reports have been utilized as a basis for targeting by US and allied military and law enforcement elements conducting counter-narcotics operations in the Afghan region. They have also been included in the strategic knowledge base on the Afghan narcotics industry, which is continually being updated and refined by the US and allied intelligence and law enforcement analytic communities. This year alone, the German transcripts have been the basis of more than 100 product reports.
+(S//SI) The United States and its partners in the ISAF continue their focus on helping the government in Kabul to rebuild and develop their country, torn by twenty years of warfare and misrule. The extensive, well-developed narcotics production trade, including poppy cultivation, opium and heroin processing, and worldwide trafficking, is one of the greatest obstacles to the development of a secure, civil society there. The BND-NSA partnership is helping provide critical intelligence on narcotics traffic in Afghanistan to military and law-enforcement customers to combat this trade.
+(U) A sign in eastern Afghanistan reminds that opium is forbidden in Islam. Farther down the road, poppies continue to bloom and heroin refineries operate in the villages. (Jane's).
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of $\mathbf{S 0 1 2 1}$ (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

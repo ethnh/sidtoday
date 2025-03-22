@@ -1,0 +1,26 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) New Tool Put Into Play in Afghanistan
+FROM:
+FAD's Coalition, Multilateral and Military Affairs Office (DP14)
+Run Date: 03/03/2006
+(S//REL) CENTER ICE, a SIGINT Coalition collaboration tool, proves useful in Afghanistan.
+(S//REL) The last operational article about CENTER ICE that appeared in the Foreign Affairs Digest ( November 2005 ) summarized the partner training that took place that month at ETC (European Technical Center). There has been a lot of exciting progress since that article appeared. The CENTER ICE system was moved to Bagram Air Base in Afghanistan after the partner training, and I set it up in the CSG* spaces inside the J2* at CTF-76 headquarters.
+(S//REL) Co-locating the system inside the CSG provided many advantages including NSAnet on the same desktop, secure phones, and a good situational awareness of the overall intelligence picture. The initial setup of the system worked smoothly until it was turned on. Like many first-time-deployed systems, there was a growing pains period when we learned about troubleshooting and things not to do.
+(S//SI) The US and Norwegian systems arrived together, and once the US system was set up, (S14) and I went to set up the Norwegian system. The Norwegian Intelligence Service (NIS) had deployed one SIGINTer named whose main mission in Afghanistan was to support the Norwegian Special Operational Forces (NORSOF). The NIS area was also located at Bagram and the only way the CSG was able to pass information before the arrival of CENTER ICE was to give it as hard copy.
+(S//SI) As mentioned, there were some growing pains with CENTER ICE's initial installation and in fact, after the NIS system was operational, the US system went down. The FAD (NSA's Foreign Affairs Directorate) officer who replaced me, brought the necessary spares out with her and a few hours after her arrival we had the system operational and conducted our first chat and secure phone session with the Norwegians. I left theater at the end of November and took over as the forward liaison officer.
+(S/SI) In the weeks that followed, the CENTER ICE concept proved itself to be extremely useful. By having a secure means of passing data and communications, was able to pass valuable threat warning and sanitized GEO tippers to the Norwegians. To quote
+"I feel quite safe in stating that the information that the Norwegians received from the GEO tippers probably saved their squadron from a disaster last week. We were able to warn the Norwegians about the reinforcements, and the continuous reporting on the handsets in the Force Protection box allowed us to track all the players in the Troops In Contact (TIC) and warn the Norwegians about where they were being observed from. I think what they (the Norwegians) heard convinced them to pull out instead of going ahead with their plans to move forward, and I really think they would have found themselves in a bad situation if that had happened, particularly as there was no air support to give them."
+(U) The coalition village at Bagram Airfield in Afghanistan
+(S//SI) This initial success was exactly what we hoped would happen as a CENTER ICE proof of concept. The NORSOF have since left theater and will re-deploy as part of a Provincial Reconstruction Team (PRT). In the meantime the Dutch and Danes are both currently using CENTER ICE from their National Headquarters to familiarize themselves with the environment before deploying. The German system is in Kabul and we expect the Germans to be on line shortly. The Swedes activated their system from Stockholm and later tried to activate it from
+Kabul without success. They will try again in the spring. GCHQ* is currently trying to activate their system on an exercise with the UK's 14th Signal Regiment. We are hoping the Spanish and Italians deploy their CENTER ICE systems to Afghanistan within the month.
+(S//SI) There is still a lot of policy work being done here in an effort to make the system more valuable. There are sharing, reporting and oversight issues that DP14 will continue to work. As CENTER ICE is the first purely tactical multinational system, we need to change policy to move it from its previous bilateral channels to be able to support coalition arrangements. DP14 (FAD's Coalition, Multilateral and Military Affairs Office) will lead this push and work with SID and others to make this happen and improve our support to the US and Coalition war fighters. DP14 will also re-engage the SIGINT Seniors Executive Board (SSEB) in April for a lessons-learned and way-ahead conference for all partners.
+*(U) Notes:
+CSG = Cryptologic Services Group
+J2 = Directorate of Intelligence (see related article ).
+GCHQ = the UK's Government Communications Headquarters
+(U//FOUO) This article is reprinted from the Foreign Affairs Digest, February edition (originally titled "CENTER ICE in Afghanistan: An Operational and Policy Update").
+" (U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

@@ -1,0 +1,14 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Military Members: Do You Have What It Takes?
+FROM: SIGINT Communications
+Unknown
+Run Date: 10/07/2003
+(U) You could be a member of team having significant daily impact on operations in the global war on terrorism. This is an outstanding opportunity for motivated, mature, operations oriented personnel to make a difference.
+(U//FOUO) The National Intelligence Support Team (NIST)/Field Sustainment Branch (S1312) is currently looking for qualified military personnel from all services to fill 25 newly allocated billets. These personnel will be permanently assigned to S1312 for the duration of their tour at NSA. During this tour of duty these personnel will deploy to several different NIST/CSG/Direct Support Team positions worldwide for 90 to 120 days at a time in direct support of combat forces engaged in the global war on terrorism (GWOT) and any other national level crises that may arise.
+(U//FOUO) There are five Officer-in-Charge (OIC) billets (O-3) and twenty Analyst billets (E-5 through E-7) that need to be filled. All potential applicants must have a SIGINT background. Experience in support to military operations and force protection are also desired, but not necessarily a requirement. Analysts must have an analytic background, preferably with a formal school foundation.
+(U//FOUO) Selected personnel will forward deploy and integrate into our teams on the front lines of the GWOT. These teams directly impact operations by providing the combat elements with time-sensitive, relevant intelligence products that directly and immediately affect targeting and operations on many different levels and scales. Additionally, these teams are also responsible for providing critical force protection information to the tactical commanders in order to protect the lives and interests of our forces and those of our allies within their area of responsibility (AOR).
+(U//FOUO) The NIST Branch, in coordination with several Agency offices, will train and equip all deploying personnel. Training will include extensive analysis training (classroom and OJT), target specific training, weapons training, as well as personal protective measures training (self defense, defensive driving, etc.) and more.
+(U//FOUO) Currently, S13 has several teams deployed worldwide in support of the GWOT. If you are interested in these opportunities, send your resume to the NIST Branch via e-mail: DL NIST_resume or @ems.nsa. Contact the office at @NIST\ ( @NIST\ ) if you should have additional questions.
+(U//FOUO) Primary and Alternate POCs for NIST, Field Sustainment Branch: Chief, NIST Field Sustainment Division - CWO3 , USMC ( ) NIST/CSG Desk Officer - CTRC (SW/AW/NAC) USN USG ( ) SGT USMC, ( ) CPL USMC, USMC, ( ) CML
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid comms)."

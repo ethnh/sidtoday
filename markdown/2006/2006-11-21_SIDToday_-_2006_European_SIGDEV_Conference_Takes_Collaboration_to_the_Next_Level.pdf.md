@@ -1,0 +1,18 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) 2006 European SIGDEV Conference Takes Collaboration to the Next Level
+
+FROM:
+New Mission Development Center, MHS (F77)
+Run Date: 11/21/2006
+(S//SI//REL) Without SIGDEV, technological advances would quickly overtake the current success that SIGINT enjoys. Without collaboration, SIGDEV would be unable to maintain their edge in discovery activities, geographic coverage and situational awareness of the everchanging target environment. The 2006 European SIGDEV conference, held at Menwith Hill Station from 16-20 October, emphasized the fact that SIGDEV is no longer about "ownership" of information and systems, but collaboration between NSA affiliates and Second Party partners.
+(S//SI//REL) The theme for the conference, " SIGDEV in the TURBULENCE Era " allowed the participants to share their current projects and how their work will ultimately fit into or influence TURBULENCE. The format of the conference (over six hours of open forum, 27 briefings and many long breaks throughout the day) allowed participants to collaborate to the fullest extent. The tours and demonstrations throughout the week helped the guests to really get a feel for what is happening in SIGINT development and TURBULENCE here on the Hill.
+(U//FOUO) Dr. Pat Dowd, Deputy Director for IT Modernization, gives a TURBULENCE overview, setting the stage for the remainder of the week.
+(C) The importance of SIGDEV to the community is well documented and was highlighted by the fact that three key NSA seniors gave keynote addresses at the conference. Menwith Hill realizes the importance of the SIGDEV mission here - SIGDEV is not just a division, it is an ethos. Many people from myriad organizations took part in organizing the conference. It was definitely a site priority.
+(TS//SI//REL) The breadth of participation at the conference was astounding. There were 71 visitors from North America, Europe, Asia and Australia and as many as 50 Menwith Hill-ers attended discussions at any given time. SIGDEV was well served as many sidebar discussions took place throughout the conference. A great example of collaboration was the presentation and follow-up discussions of QUANTUMROLL (aka GHOSTHUNTER), which is a joint project between NSA and MHS.
+(TS//SI//REL) The technology requires two unique access programs to share data in a very nontraditional manner. By combining the data, a high-order capability is produced which yields results that the two independent accesses could never achieve. This high-order capability was demonstrated at MHS but the functionality is achievable working anywhere in a net centric environment. This truly demonstrated the theme heard throughout the conference, "You don't have to own something to be successful; through collaboration, anything is possible."
+(U//FOUO) The 2006 European SIGDEV conference was the second annual occurrence. The feedback from the people who attended the conference was positive and constructive. The lessons learned have been passed back to the SIGDEV Strategy and Governance organization for incorporation into future SIGDEV activity. It was truly a pleasure to host the conference at Menwith Hill Station, in "sunny" northern England.
+(U//FOUO) The notes and the briefings from the conference are now on line and can be viewed at 2006 European SIGINT Development Conference website .
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

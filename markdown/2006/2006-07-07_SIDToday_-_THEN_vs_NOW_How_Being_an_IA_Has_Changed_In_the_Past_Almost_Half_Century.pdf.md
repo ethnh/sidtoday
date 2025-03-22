@@ -1,0 +1,23 @@
+![img-0.jpeg](img-0.jpeg)
+(U) THEN vs NOW: How Being an IA Has Changed In the Past (Almost) Half Century
+
+FROM:
+Senior Intel Analyst \& Reporter, Weapons Systems (S2J33)
+Run Date: 07/07/2006
+(U//FOUO) Upon hearing that had been a SIGINT analyst for 48 years, SIDtoday asked him to pen some words describing how the business has changed over that time span...
+(U//FOUO) BACK THEN . . . in the late 1950s, an Air Force (AF) analyst emerged from the fog at the RAF Chicksands Air Base in Bedfordshire, England. Today, this analyst looks a little different (balding, spare middle-ground, rider of three-wheeled cart).
+(U) In USAF, 1957 (U) As civilian in 2005.
+(U//FOUO) I was a young AF COMINT analyst of the Soviet World who worked to gain stripes (on the sleeve) and recognition as a hard-charging collector, analyst and reporter. (We did the whole cycle - from collecting the signal to sending out the reports.) On occasion, I got to brief visiting AF generals and NSA civilians on the latest Russian Air Defense systems and on our collection successes against them. It was truly an exciting world for me.
+(U//FOUO) How was it back then, and what tools were available? My work was done in potbellied, oil heated, small prefabricated buildings. We had a few collection positions in the radioprinter section of the site operations area. We started out with weather and air-defense targets assigned by the great, all-knowing (?) NSA taskers. At first we had known and fairly static callsigns and schedules to follow, so the job of collection was rather simple. You tuned up the receiver and adjusted the demodulators on the target. Reporting was just filling out a proforma report with up and down times on the appropriate frequency. It was a bit boring. The shift to newer missions and signals was soon welcomed. By now I was a three-striper and soon made four of them.
+(U//FOUO) Now the tasks were getting more interesting. I was working with Morse, printer, facsimile and "data" transmission. We had to wear our headsets continuously to be sure we searched out and found our targets. Now we had new challenges from NSA. The hardest was a series of data transmissions used by the Soviet air defense targets. As analysts, we had to first "find" the signal, run all the bits on paper tape, resolve what the traffic was, try to equate the traffic to a specific ground station/airfield area involved, and report this to NSA.
+(U//FOUO) The challenge of doing all this was exciting and made one proud of successes. The NSA "scientists and engineers" tried to spoil our fun by bringing in a prototype analysis system with a plotting board. All this work was intense and burned a lot of intelligence grey matter and late hours. We had to know our target locations down to the airfield runways and how they fit into the then-Soviet Air Defense System.
+(U//FOUO) The tools were mostly whatever you had stored in the brain and a few working aids, after applying receivers and demodulators to the signals. We had to keep copious notes on 3X5 cards for daily application to work the mission. I am sure I worked with more than I remember . . . but it was a lot of FUN.
+(S//SI) NOW VERSUS THEN . . . It is a very different job nowadays, with many computer tools of the trade rather than 3X5 cards. I go fishing in the great pond called "Pinwale." Obviously, the fishing is limited by imagination (and USSID rules), but the chances of finding your target are quite good. My reporting is via Product Reports, and although I am still an analyst and reporter, I no longer do collection. (I do not miss having to start with a receiver and
+find the signals. Those who do this have my sympathy and thanks.)
+(S//SI) The main stress for me nowadays is using my eyes to look at hundreds of search results each day. The world got a lot larger while I look for relevant South Asia, Middle-East, and some European targets that send traffic relevant to my platforms and weapons mission. After some 48 years in this intelligence business, it still motivates me to get out of bed and drive to the campus. I do miss the front-end fog of England and the desert heat of the Middle East. If you want some war stories, look me up and let's chat; I will try to motivate you in whatever work you do. I have been here and there and done lots of that.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)." 
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

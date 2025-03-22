@@ -1,0 +1,15 @@
+![img-0.jpeg](img-0.jpeg)
+(U) DEA - Back in the Intelligence Community Again!
+
+FROM:
+DEA Account Manager (S112)
+Run Date: 10/20/2006
+(U) As of early February 2006, the Drug Enforcement Administration (DEA) re-joined the Intelligence Community after a 25 -year absence. A joint designation memorandum signed by the United States Attorney General and the Director of National Intelligence admitted the Office of National Security Intelligence (ONS), an office within DEA's Intelligence Division, into the Intelligence Community.
+(U//FOUO) ONS, which will be physically located at DEA Headquarters in Arlington, Virginia, will serve as an intelligence analysis office. It will manage the collection requirements and analysis of national security information gained through the course of DEA's law enforcement mission.
+(U) DEA was previously a member of the Intelligence Community from 1978 until 1982. However, with the implementation of E.O. 12333 in 1982 - yes, that same one whose salient points we review yearly - DEA was removed from membership in the community. The decision was based on the fact that DEA was primarily a law enforcement organization and did not need to be a member of the Intelligence Community. While E.O. 12333 initially removed DEA from the Intelligence Community, its operational linkage with NSA was not minimized; the order also authorized NSA to provide technical assistance to DEA and other federal law enforcement agencies.
+(S//SI//REL) The relationship between NSA and DEA was originally formalized in a 1989 Memorandum of Understanding (MOU) signed by the heads of the two agencies. This relationship has evolved into a prosperous one for both agencies - after all, DEA is NSA's principal and most important customer for narcotics-related SIGINT. It uses SIGINT for lead information to initiate or support ongoing multi-jurisdictional investigations of major international drug trafficking organizations. In turn, DEA provides NSA with in-depth background and technical information on international narcotics trafficking organizations in support of our foreign intelligence mission.
+(U) DEA's membership in the Intelligence Community provides them the forum and opportunity to be a prime contributor toward issues of national security. For instance, drug trafficking organizations and terrorist groups use similar methods of operations, moneylaundering, and routes. DEA's extensive overseas presence coupled with its 50 -plus years of operational experience in that arena has resulted in a vast network of informants, some of whom operate in areas that are of limited access to Intelligence Community assets. Presumably, the Intelligence Community will have that access now.
+(U) Surely, DEA's renewed membership in the Intelligence Community will be a factor in the Intelligence Community coming together to meet the threats of the 21st Century.
+(U) Welcome back, DEA!
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

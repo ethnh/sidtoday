@@ -1,0 +1,24 @@
+![img-0.jpeg](img-0.jpeg)
+(TS//SI) Going on TDY to Help Protect a VIP
+FROM:
+Europe and Energy SIGDEV (S2C13)
+Run Date: 08/15/2006
+(TS//SI) One of the SIGINT System's responsibilities is to help protect top-level US Government officials when they travel overseas. What does that entail? SIDtoday asked a Lithuanian linguist, to describe his experience:
+(TS//SI) In early May 2006, U.S. Vice President Dick Cheney addressed the Vilnius Conference 2006, a summit of leaders of the Baltic and Black Sea regions that was held in the Lithuanian capital. As is customary for high-level VIP travel, an SCS_Special Operations Division Executive Protection team, consisting of collection officers and linguists, deployed in support of the U.S. Secret Service for the visit. On this particular occasion, two SID Lithuanian linguists, of S203A and of S2C13, were asked to join the SCS collection experts on the team.
+
+# (U//FOUO) The SIGINT Effort 
+
+(TS//SI) In contrast to some Executive Protection TDYs, in which teams need to work from unsecured hotel rooms or out-of-the-way locations such as unimproved attics, our designated office space this time was both secure and comfortable: inside the controlled access area of the U.S. Embassy, in a shielded enclosure within another parent room. While small (approx. 7 'x 10'), the enclosure proved to be more than adequate for our short-duration TDY. The team's equipment consisted of one DRT1101B digital receiver, two DELL D800 laptops loaded with ALASKA and ONEROOF software, and one STE phone. A wideband omnidirectional pigtail antenna was placed on a windowsill located down the hall from our office area.
+(TS//SI) After arriving on 1 May, the team set up its equipment and began to survey the local wireless and RF environment. The collection arrangements for this trip did not provide a capability against the primary cellular systems found -- AS/1-encrypted GSM900 and GSM1800 -- but the comprehensive survey led to identification of relevant airport communications and police networks.
+(TS//SI) As the arrival of the Vice President on 3 May drew near, round-the-clock operations commenced, with a linguist, SCS collector, and Secret Service officer teaming on each 12-hour shift to monitor police communications for any indications of threats or problems on which the Secret Service might need to act. There were no security-related incidents during the Vice President's stay, thanks to Secret Service preparations and the comprehensive security blanket implemented by Lithuanian authorities to protect this assembly of distinguished visitors, which in addition to Mr. Cheney, included the presidents of Poland, Ukraine, and Georgia.
+
+## (U) The Event
+
+(U) The Conference itself did not garner a great deal of international media attention, at least until some unexpectedly frank remarks by the Vice President, who accused Russia of "backsliding" on democracy and using its energy resources to "blackmail" neighboring countries that are almost entirely dependent on Russian natural gas and oil. This is a particularly relevant topic in the Baltics and other former Soviet republics that have long since achieved political independence, but have had a much more difficult time extricating themselves from what had been their total integration into and dependence on the economic and resource infrastructure of the Soviet Union.
+(U) About the City
+(U) What was the city like? Along with the rest of Lithuania, Vilnius is gradually shaking off vestiges of its former non-independent self, but it is a slow and, above all, expensive process. There are stark contrasts between what is new or restored -- stores, shopping malls, hotels, administrative buildings, some historically significant structures -- and what still is not, in some cases having remained unchanged and unimproved since World War II. There is also an evident contrast in the level of prosperity enjoyed by enterprises and individuals whose income derives from the influx of European Union funds or tourists and those whose does not.
+(U) As Lithuania's difficult economic transformation takes hold and particularly in the wake of the country's accession to the European Union, Vilnius has experienced quite a building boom as well as accelerated restoration of its rich historical and architectural heritage. The city was founded in the 14th century; the University of Vilnius established in 1579. The city's Old Town, a UNESCO World Heritage Site, is crowded with restaurants, boutique hotels, and an incredible number of churches for a city of approximately 600,000 residents.
+(U) View of Vilnius
+(U) Castle tower overlooking the Old Town -- site of the original fortification
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

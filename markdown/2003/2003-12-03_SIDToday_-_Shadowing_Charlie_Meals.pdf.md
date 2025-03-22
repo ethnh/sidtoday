@@ -1,0 +1,13 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Shadowing Charlie Meals
+FROM:
+PRC Defense Industries (S2B33)
+Run Date: 12/03/2003
+(U//FOUO) I found "shadowing" Deputy Director of Signals Intelligence Charlie Meals very interesting and worthwhile. I encourage anyone interested in seeing a "view from the top" to consider signing up for the program. You won't regret it! But first a word of caution, make sure you get a good night sleep the night before, you're in for a very full day!
+(U//FOUO) The schedule that Mr. Meals keeps is quite grueling. Briefings, meetings, and courtesy calls begin at 0730, don't end until 1800, and cover myriad topics. During my experience, I gained new insights into a project I was already familiar with during one briefing, was briefed on two prototype systems during another, learned about efforts to improve the early/threat warning process at a field site, and even developed some appreciation of metrics during a Corporate Metrics Review meeting.
+(U//FOUO) But what impressed me most was how cohesively Major General Quirk, Charlie Meals, and their staff work as a team. As an analyst, I came away with the feeling that, although they're physically removed from the analytic shops, they have the rank and file civilian and military workers in the forefront of their minds when they raise questions during a presentation or make a decision. I now feel that they are more like coworkers, part of my "team". Their focus is on enhancing and unencumbering the workplace as much as possible for the benefit of the analysts, which leads to increased productivity and efficiency.
+(U//FOUO) For example, during the corporate metrics meeting Mr. Meals mentioned the prospect of an easy-to-use tool for analysts to seek and add product requirements to each report. Mr. Meals' concern was that the tool not be just another instrument which analysts would be forced to learn how to use. Rather, it had to be easy/transparent to use, or have similar features incorporated in tools already in use and familiar to analysts.
+(U//FOUO) Likewise, during a briefing on the possibility of deployment of equipment from one field site to another, MG Quirk was primarily concerned about the impact of the transfer on the people at the sites. He questioned if the transfer would be just a "band aid" to temporarily fix the problem, or if it would provide a more permanent solution.
+(U//FOUO) Collaboration and cooperation are alive and well at the top of the Signals Intelligence Directorate, but you don't have to take my word for it - sign up to be a shadow and see for yourself!
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

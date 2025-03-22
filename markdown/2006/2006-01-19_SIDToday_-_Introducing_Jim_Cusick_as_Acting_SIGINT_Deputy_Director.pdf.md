@@ -1,0 +1,18 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Introducing Jim Cusick as Acting SIGINT Deputy Director
+FROM: Jim Cusick
+Unknown
+Run Date: 01/19/2006
+(U//FOUO) Happy New Year! Some if not all of you will have noticed that an egregious lapse in judgment has resulted in that SIGINT legend Charlie Meals being replaced by a mere mortal me! While I did not seek this wonderful opportunity, I am humbled, honored, and pleased to step into the gaping hole left by Charlie's retirement. While no one can truly replace Charlie, I am ready to contribute in my own way to the SIGINT mission, serving at the pleasure of the SIGINT Director, as long as the opportunity is afforded me.
+(U//FOUO) When you move around as much as I do (think about statements like "I'll go where I can be useful" before you make them unless you are prepared for 16 moves in 16 years), you darn well better be flexible, enjoy a good challenge, and love what you are doing. I look forward to the challenges that my new role will provide, but I have to confess that it was not a difficult choice.
+(U//FOUO) As he mentioned in his recent article, I have known MG Quirk for almost 30 years. I have the greatest respect for him and the values he lives by, I believe his direction for SID is spot on, and he is a wonderful gentleman to boot. I have never before had the privilege of working as part of leadership team that is so intellectually honest with one another and yet totally committed to working together, AND we genuinely enjoy one another's company. I consider myself blessed to be a part of this team.
+(U//FOUO) For those of you who don't know me, I've been doing SIGINT of one form or another almost 40 years! If you want the long litany of jobs I have had over the years, you may want to check my biography on the SID Home Page. The things that have shaped me most were starting out as a German linguist, 4 field tours learning NSA through the eyes of others, being an NSOC Senior Operations Officer - without question the best job at NSA, learning how the top deck conducts its business as VADM McConnell's Civilian EA, running unconventional ops for NSA, 2.5 years learning about the Intelligence Community under Charlie Allen as a rep to the NICB*, and learning and getting to appreciate DoD from the vantage point of being NCR Defense.
+(U//FOUO) What I really want you to know is that every single person in SID is highly valuable to me and I am passionate about doing what is right for each of you. For some people it's algorithms, for others computer programs, for others it's building systems, for others it's analysis.... What floats my boat is people. Hiring, developing, nurturing, encouraging, supporting, promoting, disciplining (when necessary... you can do no more caring thing than get people back on the right track), mentoring, rewarding, and, at some point in time (in my case it usually happens early), learning from people. I live for meeting people and walking around, finding out about the great things you are doing. I've said it before and I'll say it again: there is no more talented, gifted, dedicated group of Americans on the planet than all of you. You are the reason SIGINT is a national treasure.
+(U//FOUO) I find myself in a wonderful job working with a superb leadership team and being paid to do the two things I love doing most - SIGINT and work with people. Is this a great country or what!
+-- Jim
+*(U) Note:
+NICB = National Intelligence Collection Board
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

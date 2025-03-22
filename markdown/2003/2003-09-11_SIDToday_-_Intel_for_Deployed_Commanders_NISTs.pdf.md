@@ -1,0 +1,12 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Intel for Deployed Commanders: NISTs
+
+FROM: 2Lt $\square$ USAF
+SIGINT Communications
+Run Date: 09/11/2003
+(U//FOUO) When U.S. forces deploy to a "hot spot", how do they get their intelligence? The answer: a NIST. The mission of the National Intelligence Support Team (NIST) is to provide timely national level all-source intelligence to deployed commanders during crisis or contingency operations. In the aftermath of September 11, the NIST office has been busier than ever before in executing that mission. From Operation ENDURING FREEDOM in Afghanistan to Operation IRAQI FREEDOM (OIF), NSA personnel have been deployed as part of NISTs, and there is no sign of the workload lessening any time soon.
+(U//FOUO) The NIST program falls under the authority of the JCS (Joint Chiefs of Staff) J-2 (Director of Intelligence). Teams are deployed all around the world and consist of representatives from all over the Intelligence Community, such as NSA, CIA, DIA, and NIMA. Once in the field, the team members are charged with a variety of tasks, and they must undergo extensive training to be prepared. Personnel go through a three-month training process covering medical, weapons, tactical vehicle, and analysis training, just to name a few. Following this training, the NIST members are sent to an Area of Operations marshalling point to await their 34 month deployment.
+(U//FOUO) Upon arrival in the field, individuals are responsible for "reach-back" (i.e. coordinating with members of their home organization) in order to provide an "all-source" picture for support to the field commanders. The analysis they conduct directly supports the military's real-time operations; it often is a key factor as the commander makes the "go/no go" decision to execute a mission. Other functions of the NSA NIST personnel include threatwarning, time-sensitive RFIs (Requests for Information), deconfliction of reporting, and collection management.
+(U//FOUO) The NIST program has been around since the first Gulf War. The program has evolved over the last decade into a vital crisis-reaction force, and recent years have seen that need grow exponentially. The NIST brings NSA closer to the fight than any other program. To learn more about NIST and to find out about volunteer opportunities, visit the Military Integration Website.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

@@ -1,0 +1,15 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Generally Speaking: Learning Lessons from CSTs in Iraq
+FROM: MG Richard Quirk, USA
+Signals Intelligence Director
+Run Date: 02/09/2005
+(U) For background on the CST's, see the article " Supporting the Tactical Units "
+(U//FOUO) I met recently with five analysts who just returned from serving in the first wave of Cryptologic Support Teams (CSTs) deployed to Iraq. Although I knew going into the meeting that they had done much to assist our tactical forces in the region, I wanted to hear what they had learned on the job, and what the SIGINT System can "learn" as well.
+(U//FOUO) They told me that they had gained an appreciation for what "timely" means at a tactical level, and highlighted the need for quick responses. The CST'ers also learned what it's like to deal with NSA from the "outside looking in," and how best to make the right connections at NSA to answer questions and resolve problems. They also witnessed the importance of "translating" SIGINT for the tactical commanders to help them understand how the SIGINT could serve as the basis for military operations.
+(U//FOUO) What can NSA and the SIGINT System learn from their experience? One lesson is that the Agency needs clearer poc's as anchor points for responding to requests from tactical units. This means developing a structured way of providing assistance that will not hinge upon the field representative having the right personal contacts at the Agency. We can also identify the optimal training requirements for CST'ers and deployers of all kinds, and the returnees are helping us do just that. I asked them to write a paper giving their observations, and I plan to provide that to the Army so that they study it for lessons learned, as well.
+(U//FOUO) These CST'ers gave outstanding service to NSA and to the customer. They each related to me that the tour made an indelible impression, yielding experiences they'll never forget. I expressed my gratitude for their enormous contribution in helping leverage the 20,00030,000 soldiers on the ground in each Division as partners.
+(S//SI) In the past, about 90\% of tactical military operations in Iraq were based on HUMINT; now the share attributable to SIGINT is much higher, thanks to the efforts of SIGINT'ers deployed to the region, such as the CSTs, CSG elements working with the Special Forces, SIGINT'ers with I MEF's Second Radio Battalion, and others. In the last six months, tactical units have captured, killed, or wounded tens of thousands of insurgent forces in Iraq.
+(U//FOUO) As the Director has often noted, where we have people deployed, our SIGINT has meaning -- otherwise our material is just in the inbox. The CST participants, as well as all those who have volunteered for deployment forward, are helping the Agency evolve into an expeditionary SIGINT force.
+(U) I encourage all analysts to consider participating in deployments like this, where they can make a decisive contribution to our nation's efforts in Iraq.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

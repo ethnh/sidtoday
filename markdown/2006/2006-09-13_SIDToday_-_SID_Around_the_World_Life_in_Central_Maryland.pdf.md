@@ -1,0 +1,40 @@
+![img-0.jpeg](img-0.jpeg)
+(U) SID Around the World: Life in... Central Maryland??
+
+FROM:
+UK Liaison Officer for Production Operations Run Date: 09/13/2006
+(U//FOUO) Editor's note: The "SID Around the World" series has taken readers to some exotic locations... But what about the center of the US SIGINT universe -- Fort Meade and vicinity? SIDtoday thought it would be interesting to get an "outsider's" perspective on the area, and $\square$ of GCHQ was nice enough to oblige...
+(U) Well I guess you know how it feels for you, but what's life like in central Maryland for a foreigner? As you will know, GCHQ maintains a liaison office here, as well as sending quite a lot of people to work in NSA offices as integrees. The standard tour length is three years and most of us live in or close to Columbia.
+
+## (U//FOUO) Fort Meade
+
+(U) My wife $\square$ and I first lived here in the early 80's. In those olden days we lived in peaceful rural western Howard County and I used to drive to work at Fort Meade along old Route 32, which was then a single-carriageway country road: one of the most striking things on our return was seeing the mass of four- and six-lane highways everywhere. In England, we still do quite a lot of our driving on smaller, narrow roads. We've brought with us a UK vehicle with its steering wheel on the "wrong" side and this causes frequent amusement when we draw up next to other cars at traffic lights!
+(U) Other observations about driving: because there's lots of multilane highways people generally drive faster than we would back home (and also closer to the vehicle in front!) Lane discipline is different: European highway lanes are slow/medium/fast and drivers move to a faster lane to overtake, then return to the lane that suits their speed. By contrast, lane discipline in the US is ......interesting (especially on the Beltway). Other delights for us: cheap gasoline (around 8-9 dollars in UK); free parking almost everywhere!
+(U) Some aspects of everyday eating are very different from what we are used to. In general, British foodstores sell a very large variety of fresh fruit, vegetables, meats, poultry and game; this encourages people to cook and eat well at home. Also, British people can buy a very wide range of fresh ready-prepared meals from the foodstores, providing a quick, high-quality eat-at-home option. The huge number of places to eat in central Maryland probably encourages people to eat out much more than they would if they lived in England. Restaurant prices are much cheaper than in England and the variety of types of food is very wide. When we eat out, we're usually overwhelmed by the amount of food that is served up - about twice as much as we are used to! Our favourite
+
+## SERIES:
+
+(U) SID Around the World '06 - '07
+
+1. SID Around the World : Sugar Grove, West Virginia
+2. SID Around the World : Living in Thailand -- A Single's Perspective
+3. SID Around the World : A Glimpse of Utah
+4. SID Around the World : Misawa and Tokyo
+5. SID Around the World : Colorado Springs
+6. SID Around the World : Life in... Central Maryland??
+7. SID Around the World : Walking the Streets of Turkey
+8. SID Around the World : Jumping Into Yorkshire's Village Life with Both Feet
+foods: crab cakes!! Maryland crab soup!!
+
+# (U) Washington DC (Reuters) 
+
+(U) We love the Maryland climate! English weather, at least in the last few decades, has tended to be fairly unexciting, with not much difference between the seasons - never very hot nor very cold, and, contrary to popular belief, not very wet! Here the weather always has something to offer, from the bracing cold in the winter to the very hot and humid in the summer: even the hottest days can be attractive to us, particularly if we've been stuck in airconditioning for a while! There's also the excitement of summer and winter storms.
+(U) A major benefit of living in Maryland is that, compared to England, there's still so much open space that's not been claimed for building. We're keen on walking and biking, and only five minutes from our home we can be on a trail in the untamed woodlands along the Patuxent valley. The dramatic seasonal changes deliver spectacular displays of fall colours, and with so much woodland and forest in Maryland the scenery is magnificent. It's also a great opportunity for us to see the rich variety of wildlife in the area. The deer are particularly cute, though our American friends seem to think they shouldn't be allowed to eat their way through their flower beds! We love to sit on the deck on warm evenings and listen to the sounds of the toads, peepers, cicadas and other creatures we don't get to hear in England.
+(U) We are fortunate to live among very friendly folks in a small neighbourhood. There's many a time when we get a call from one or other of the neighbours to say "we're having an impromptu, come on round!", and a few minutes later several families are sitting around, putting the world to rights and trying to figure out why neither the USA nor England ever get to the soccer World Cup final. I have to say, though, that it took us Brits to organise the neighbourhood Independence Day barbeque and to get them started on the first of several spirited renderings of the StarSpangled Banner. While on that subject, we think it's great to see the Stars and Stripes - especially the huge ones flown in commercial areas - in so many places as we travel around: this is so different from the UK, where the Union Jack is infrequently seen - in fact there used to be a law against its unauthorised display I think.
+(U) Being in central Maryland places us between the two great cities of Washington and Baltimore, both of which are super places to visit. In England we live a hundred miles from London, so we don't have the same opportunities there as we have here to visit national museums and monuments and great concert halls. We've also sampled the delights of Orioles baseball (American cricket) and Redskins football (American rugby). Then there's the opportunity to explore the Chesapeake Bay region, Eastern Shore and the ocean; and to the west the Appalachian Range. What more could we ask for?
+(U) Thanks for making us welcome!
+(U) See also the SID Around the World '05 series.
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

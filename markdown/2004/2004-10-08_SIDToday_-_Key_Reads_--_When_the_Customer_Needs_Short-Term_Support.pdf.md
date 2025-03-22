@@ -1,0 +1,21 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Key Reads -- When the Customer Needs Short-Term Support
+
+FROM:
+SID/Deputy Director for Customer Relationships (S1)
+Run Date: 10/08/2004
+(C) You are sitting in a forward-deployed CSG supporting the warfighter. The Director of Operations (J3) comes into your office with the Director of Intelligence (J2) and tells you about operations planned for the upcoming week. The J2 wants to know what NSA is doing to support these operations. You look at the Commander's Priority Intelligence Requirements (PIRs) and the customer's Information Needs (INs), which are comprehensive but wide-ranging, and realize you need to tell NSA/CSS that the Command needs a certain production line or field element to concentrate on specific essential elements of information (EEIs) this week to support the week's operations plan.
+(C) You decide to send these "Key Reads", back to NSA HQs. But who do you send them to? And will all the analysts in the PLs and at RSOCs and field stations who may be able to support these requirements actually see your email? If you are using SID's new on-line Key Reads process, you know these information needs will be acted upon across the global NSA enterprise. This example pertains to military operations but it is just as applicable to our integrated representatives at the UN or Department of Commerce.
+(C) Key Reads are aimed at implementing Goal 1 of the SID Placement to "Make the customer a more active participant in steering the SIGINT system." Key Reads are defined as a customer-driven information need tied to a specific, near-term (generally less than 72 hours) customer event, action, decision or outcome for which the customer expects a cryptologic product or service. It is intended to sharply focus NSA global resources, and perhaps for short periods of time possibly redirect efforts, to support the customer. It is not meant to replace an existing IN.
+(C) "Key Reads", in various forms and from various customers, have been around for some time. But they aren't accounted for or tracked and may not even be reaching the appropriate elements of the global enterprise. Building upon the Iraqi Key Reads experience, CRD Customer Gateway has defined the business process and developed an online tool to enable us to expand Key Reads to other customers and target areas. By taking this "corporate", we will ensure that everyone has the knowledge to be in the customer's operational decision space.
+(C) When a Key Read is entered into the tool, it immediately goes to production centers for action. The production center, no matter where it is in the extended enterprise, will be able to review their production queue daily and adjust, if necessary, to focus production on this most important customer need. At the same time, the Key Read is sent to the Requirements Analysis Center (S16) to map the Key Read to an existing IN/EEI, or if one doesn't exist, notify the submitter that NSA has the Key Read for action, but ask the customer to submit an IN through National SIGINT Requirements Process (NSRP) to document the requirement. The RAC will also work closely with S2 to produce metrics that measure NSA's agility in responding to the customers' information needs.
+(C) An IPT** with cross-organizational and field representation has been established, led by
+S11 Customer Gateway, to implement the process across our 50 customers. This team will work issues such as Second Party participation, measuring the agility of SIGINT products and services against Key Reads, determining whether quick reaction collection strategies are needed, and linking Key Reads to the NSRP. We hope to have all customers integrated into the process by Spring 2005 -- one step in building the single, integrated, global, self-aware, self-synchronizing global enterprise.
+(U//FOUO) For further information, contact
+**(U) Notes:
+
+IPT = Integrated Process Team
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

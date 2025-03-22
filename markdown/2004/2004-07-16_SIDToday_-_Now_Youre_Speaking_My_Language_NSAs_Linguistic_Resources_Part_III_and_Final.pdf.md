@@ -1,0 +1,18 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Now You're Speaking My Language: NSA's Linguistic Resources (Part III and Final)
+
+FROM: SIGINT Communications and Renee Meyer, NSA/CSS Senior Language Authority (SLA)
+Unknown
+Run Date: 07/16/2004
+FROM: SIGINT Communications and Renee Meyer, NSA/CSS Senior Language Authority (SLA) Unknown
+(U//FOUO) In the conclusion of this article, here are the remaining steps being taken by NSA/CSS to address its shortage of highly qualified cryptologic language analysts (CLAs):
+(U//FOUO) New language proficiency tests . Good language readiness metrics are dependent upon good testing mechanisms. The DCI Community Management Staff (CMS) is now sponsoring the development by DLI of brand new computer-delivered language tests that will assess level $0+$ through 4 in listening and reading. The first ten computer-delivered tests will be ready in the fall of 2005, with more to follow. For the first time, there will be a single, reliable testing metric for civilians and military across DoD.
+(U//FOUO) Training through LangNet -- Multilingual Advanced Learning on-Line . The first release of the LangNet-MALL system is now available on NSAnet to help analysts maintain or improve their reading skills in Modern Standard Arabic, Chechen, Chinese, Hindi, Kurdish (Sorani), Pashto, Persian Farsi, Spanish, Turkmen, Urdu, Uzbek or West Punjabi (with more languages to be added). It provides instruction at the higher proficiency levels and in the Less-Commonly-Taught Languages.
+(C) "Backfill" billets to attain/sustain 3/3 . With ops tempo ever increasing, CLAs often cannot be spared to go to language training. Thus, the vicious cycle is perpetuated. CLAs at $3 / 3$ usually cannot be released for training to higher levels. The $75 \%$ of the military CLAs and the $49 \%$ of the civilians who are not at level $3 / 3$ stay on position, rather than going to training to improve their skills and their job performance. In order for CLAs to go to training, there must be additional personnel who can "backfill" for their colleagues, i.e. replace them on position.
+
+- (S) NSA/CSS Action to Date: NSA/CSS has increased its civilian hiring ceiling by 600 linguists over the next five years to "backfill" for civilian language analysts. With a current civilian cadre of nearly 1200 , this represents an overall net gain of $50 \%$. Additionally, NSA/CSS has launched an aggressive hiring program to include as many heritage (near native) and native speakers as possible and to appeal to such populations as language professors at prestigious universities.
+- (U//FOUO) Further Action Required: The military CLA manning factor must similarly be increased to allow military language analysts to go to the maintenance and enhancement training required for their jobs. NSA/CSS recommends that the number of military language billets be raised by 785 billets. This recommendation, along with the DLI increased funding recommendation, is now in the final approval stages by DoD's Joint Requirements Oversight Council.
+(U//FOUO) Increase Foreign Language Incentive Pay (FLIP) and/or incentives .
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

@@ -1,0 +1,11 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) DIA Honors Departing NSA Representative
+FROM: Trish White
+NSA Rep to DIA
+Run Date: 11/26/2003
+(U//FOUO) On October 9, 2003, DIA and NSA personnel gathered in the Warning and Fusion Center of the Joint Intelligence Task Force - Combating Terrorism (JITF-CT) spaces at DIA to pay tribute to the NSA Senior Representative to the JITF-CT. Formed in the days following 9/11/01, the JITF-CT is charged with providing strategic and tactical warning of terrorist activity to the Defense Department, exposing and exploiting terrorist vulnerabilities and disrupting attempts by terrorists and their sponsors to procure weapons of mass destruction.
+(U//FOUO) $\square$ joined the JITF-CT at its very inception, ensuring that NSA's support and interests were fully represented as it evolved. VADM Jacoby, Director DIA, honored for her two years of outstanding work in the JITF-CT, and presented her with the Director's Award for her many services to DIA. This award is one of the highest awards given to civilians and is highly coveted. VADM Jacoby was pleased to be able to recognize achievement and contributions to collaboration between NSA and DIA.
+(S) first served VADM Jacoby as NSA Special Assistant to the J2 and Chief of the CSG Joint Staff at the Pentagon in 1999 and 2000. After a brief tour in the new Customer Relations organization at NSA, she volunteered to return to the Pentagon to coordinate NSA support to the counterterrorism mission following the attacks there. Her comprehensive knowledge of SIGINT and operations made her invaluable in establishing a high level of support to the JITF-CT in the first days following the attacks, and she worked unceasingly to expand the cooperation and coordination between the JITF-CT and NSA. Upon her recent return to NSA, immediately volunteered for an extended TDY to Baghdad in support of our efforts there.
+(U//FOUO) was also honored for her service to the JITF-CT by its acting Director, Bob Pecha. NSAers joining in salute of included Carl Johnson, Assistant Deputy Director for Customer Relations, DIA Senior Executive Account Manager, and newly named NCR (National Cryptologic Representative) DIA.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)."

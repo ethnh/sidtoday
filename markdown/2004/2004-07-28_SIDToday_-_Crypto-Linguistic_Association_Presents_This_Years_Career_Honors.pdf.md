@@ -1,0 +1,19 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Crypto-Linguistic Association Presents This Year's Career Honors
+
+FROM: SIGINT Communications
+Unknown
+Run Date: 07/28/2004
+(U)This month the Crypto-linguistic Association (CLA) presented three of their annual awards to honor deserving linguists in various stages of their language careers.
+(U//FOUO) $\square$ . United States Army, S2H4 was presented the Rochefort Award. This recognition is given to military personnel whose accomplishments have contributed to the mission of the cryptologic community in the tradition of ingenuity, energy, and leadership which exemplified the achievement of CAPT Rochefort.
+(S//SI) $\square$ has been hailed as one of the "go to" language experts on Russian nuclear safety and security systems/programs, weapons inventory/use controls, nuclear deployment/accident contingency plans, and how these affect and are affected by critical U.S. Cooperative Threat Reduction and other U.S.-Russia assistance programs, he liaises daily with intra-Agency HQs partners, GCHQ, the Medina RSOC, CIA, DIA, DOE and NGA on collection, processing, translation, analysis and reporting issues. These have assumed critical importance after 9/11 and his pioneering work has garnered acclaim throughout the intelligence and policy communities.
+(U//FOUO) $\square$ is the 2004 recipient of the Sydney Jaffe Award. This award is presented to civilian personnel whose accomplishments have contributed to the mission of the cryptologic community in the tradition of scholarship, leadership, and achievement that were the hallmarks of Dr. Jaffe's career.
+(U//FOUO) A Master Linguist, served on the former Directorate of Operations' Language Technical Track Review Panel. During his tenure as Chair of Subpanel 1 of the Language and Linguistics Technical Track, he evaluated and awarded titles to over 100 linguists. At the end of his term, was asked to serve an additional term because he had "gone the extra mile and more on every occasion to make sure that NSA linguists were rated rigorously and fairly." $\square$ seven years of service on the Language \& Linguistics Technical Track panel helped "shape the standards of the review process as we know it today."
+(U//FOUO) $\square$ received the CLA Award that recognizes language professionals that are at the mid-point of their careers who have distinguished themselves in their daily endeavors as did the award's namesake, Norman Wild.
+(TS//SI) $\square$ is recognized for many of her accomplishments including those of her tour in Tegucigalpa, when a new communications links between Colombia and Honduras were identified and development of these communications began. Within a very short time, $\square$ had analyzed and identified "new" drug cartels and cartel bosses. One, in particular, was the impetus for an ongoing pursuit of a multinational drum group and became the focus of the CIA Station. SCS Division management called $\square$ " $\square$ " $\square$ " contributions "...an exceptional accomplishment that has had an enormous impact on the Station and the liaison project in-country." In addition, she was singled out in a note from the U.S. Ambassador to Colombia at the height of threats to U.S. persons there in early 2003, $\square \square$ ...You all are doing a great job. The tactical SIGINT is vital, possibly saving hundreds of lives.
+$\square$ was on her way to her next PCS and could not attend ceremony.)
+(U) To find out more about these awards, how you might nominate someone and the many other activities of the CLA, please visit the CLA webpage.
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid_comms)." 
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

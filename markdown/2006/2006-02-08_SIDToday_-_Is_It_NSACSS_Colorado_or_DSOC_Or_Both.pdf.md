@@ -1,0 +1,23 @@
+![img-0.jpeg](img-0.jpeg)
+(U//FOUO) Is It NSA/CSS Colorado.... or DSOC... Or Both?
+
+FROM:
+Chief of Staff, NSA/CSS Colorado
+Run Date: 02/08/2006
+(U//FOUO) Here's SIDtoday's first article from NSA/CSS Colorado, part of our quarterly updates from the Cryptologic Centers.
+(S//REL) Just how many of you know the difference between NSA/CSS Colorado and the DSOC? It's confusing, right? If the NSA organization in Colorado is now known as NSA/CSS Colorado, why is its old name -- the Denver Security Operations Center (i.e., DSOC) -- still popping up? The reason is that the term DSOC now applies to just a part of NSA/CSS Colorado, rather than the whole thing. Let me explain.
+(S//REL) The DSOC's origins reach back to at least 1999 when recommendations were made as a result of a Congressionally-Directed Action to consolidate NSA's Technical ELINT activities in Denver. By 2001, the concept had evolved to include more than just Technical ELINT. NSA planners began to consider moving more of A\&P's Office of Weapons and Space (W\&S, S2J) to Denver. The plan was expanded to include moving more disciplines of Technical SIGINT (i.e., OpELINT, RF comms externals and ship tracking) to Colorado while maintaining FISINT, PROFORMA and Space Systems at NSAW. At the same time, the planners chose the name of "Denver Security Operations Center" to be consistent with the other Regional Security Operations Centers, or RSOCs.
+(S//REL) Now enter Transformation 2.0 and DIRNSA's vision for mission build-out, which more or less coincided with the stand-up of the DSOC. At this point, the concept for the DSOC expanded from an analysis and production center for Technical SIGINT (TechSIGINT) located away from NSA Ft Meade to that of the headquarters for the global TechSIGINT mission. It became the first NSA headquarters element to relocate away from NSAW while remaining an integral part of the extended Cryptologic Enterprise. Accordingly, the DSOC was identified as the Global Headquarters for TechSIGINT for the Extended Enterprise as well as the largest (primary) production center for Weapons and Space targets, using both TechSIGINT and COMINT where applicable. This meant that not only would most of the analysis and production mission of Weapons and Space be in Colorado, but also that headquarters management responsibility for the TechSIGINT mission worldwide would be in Colorado.
+(S//REL) Seemingly overnight, the DSOC became the proving ground for DIRNSA's vision for mission build-out for the other "RSOCs." At least 18 months ahead of the other Cryptologic Centers (CCs) in terms of planning and execution, the DSOC paved the way for Georgia, Texas and Hawaii, providing lessons learned along the way--both good and bad. In March 2005, when DIRNSA renamed the CCs, the DSOC became NSA/CSS Colorado, one of four NSA Cryptologic Centers. NSA/CSS Colorado became a microcosm of NSAW--a true headquarters in the sense that we have a wide range of responsibilities outside of analysis and production. In addition to an S2 element, we have S1, S3, FAD, ADET, ITD, Systems Engineering, Finance, Security, and Human Resources elements to better lead the extended TechSIGINT global enterprise. NSA/CSS Colorado has accepted its roles and responsibilities as a true NSA headquarters function.
+(S//REL) What may remain confusing is that we haven't discarded the DSOC as an organizational title. Currently, we view the DSOC as that part of NSA/CSS Colorado devoted to Weapons and Space/TechSIGINT analysis production activities ongoing in Colorado. Over time, it could end up being one of a number of such centers in Colorado under the NSA/CSS Colorado management umbrella. For example, Combating Proliferation (CP) has plans to establish an analysis and production element in Colorado this year. The future will tell what other mission elements within SID or IAD will make their way to NSA/CSS Colorado. Until then,
+we will continue to focus our efforts on extending DIRNSA's vision and living the reality of that vision.
+(S//REL) So to repeat: NSA/CSS Colorado is the Global TechSIGINT Headquarters as part of DIRNSA's Transformation 2.0 strategy and one of four Cryptologic Centers; DSOC is the primary TechSIGINT analysis and production center within NSA/CSS Colorado.
+(U) I can tell you that it's been a great ride so far and there are still seats on our fast-moving train. All aboard!
+(U//FOUO) See recent updates from the other Cryptologic Centers:
+
+- The NSA/CSS Texas Joint Training Center Opens: A Major Step Forward for Operations
+- What's Happening at NSA/CSS Hawaii
+- What's Happening at NSA/CSS Georgia
+
+
+# "(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of $\mathbf{S 0 1 2 1}$ (DL sid_comms)."

@@ -1,0 +1,24 @@
+![img-0.jpeg](img-0.jpeg)
+(U) Was That a Mortar or a Grenade?
+
+FROM: (TS//SI//REL) SCS Damascus Unknown
+Run Date: 11/06/2006
+(TS//SI//REL) Readers may recall that an attack was waged against the US Embassy in Damascus in September. Our SIGINT colleagues -- who were there on the scene -- give a firsthand account of their experience:
+(TS//SI//REL) It was just after 10:00 a.m. local time on an otherwise quiet September 12th when things got a little hectic at the U.S. Embassy in Damascus, Syria. One site member from the Special Collection Service (SCS) Damascus had just returned from language class, and another was getting ready to leave for an appointment when we heard the first explosion. The percussion, clearly felt within site spaces, caused our jaws to drop as we knew instantly this was not going to be a good day.
+(TS//SI//REL) Site members quickly went into the Post Communication Center's (PCC) common area to evaluate the situation. They were immediately welcomed by subsequent explosions and heavy small arms fire pinging off the exterior of the building, a mere 10 yards from the PCC vault door. Realizing now that the embassy was definitely under attack, site members ran and closed the vault door to ensure the PCC was secure.
+(TS//SI//REL) Returning to the office, site members quickly began to work. Our Arabic language analyst immediately started monitoring Syrian police communications to ascertain the seriousness of the threat, while the site engineer prepared site workstations for potential emergency destruction. Based on the fact that site still had power, air conditioning, and communications, the Officer in Charge made the decision to prepare for, but not implement, full emergency destruction.
+(TS//SI//REL) At the same time, the site contacted the SCS Watch Office via VOIP to inform them of the situation. The Watch Office subsequently set up a VTC with NSOC to keep NSA fully abreast of the situation in Damascus. Site maintained frequent VOIP communications with the Watch for the duration of the crisis, coordinating the details of the CRITIC*, which the Watch issued on site's behalf.
+(TS//SI//REL) Following the initial rush of activity, site members tried to discern what exactly was going on outside the embassy. We knew we were under attack, but we did not know the number of assailants, the type of weaponry they possessed, or if they had breached the embassy walls. About 15 minutes after the crisis began, we found out--via an embassy radio located in an adjoining office--that there were multiple attackers and two explosive-laden cars (one near the front entrance and one by the back gate) involved in the attack By that time, though, Syrian security forces had the upper hand, detaining the attackers by the vehicle at the front gate and eventually killing all the assailants.
+(TS//SI//REL) Once the "all clear" was sounded, the embassy evacuated non-essential personnel; however, our work was just beginning: While linguists started scanning incoming traffic for reflections of the attack, other site members went up on the embassy roof to determine if either of our roof maintenance sheds (RMS-antenna concealments) was damaged. Besides finding copious amounts of shrapnel from the grenades and the car that exploded outside the front gate, site members discovered multiple bullet holes in one of our RMSs. In fact, we pulled the remains of an AK-47 slug out of one of the RMS panels. Subsequent searches of the panels revealed one of the bullets had severed a control cable for our microwave search system, rendering the antenna inoperable.
+(TS//SI//REL) Those of us who serve in the SCS are proud of our ability to be on the pointy edge of the SIGINT spear, often in some of the less hospitable corners of our planet. The attack served as a stark reminder to us at SCS Damascus that we live and work in a dangerous environment that requires teamwork, professionalism, and dedication to accomplish our important mission.
+
+Notes:
+
+* (C) A "CRITIC" is critical information concerning possible foreign threats to US national security that are so significant that they require the immediate attention of the President and the National Security Council. CRITIC information is sent at the highest precedence by the most rapid means available to ensure delivery within 10 minutes.
+(U//FOUO) For more background on this story, see the Intellipedia entry (on Intelink): US Embassy in Syria Attacked, 12 September 2006
+(U//FOUO) On the left, a vehicle destroyed during the attack (Reuters); on right, equipment recovered from a van at the scene (BBC).
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of S0121 (DL sid comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
